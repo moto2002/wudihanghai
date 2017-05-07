@@ -1,0 +1,2651 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: assets/bundles/fonts_vipfont_vipnew.unity3d
+SHA1-Digest: ylnGL55/2z4mm5ysUnYXyQ3NU+8=
+
+Name: assets/ucgamesdk/lib/armeabi/lib_ucsdk_softlink.so
+SHA1-Digest: MjdD7rfhd0VVUr9cHdIjxh3F03g=
+
+Name: assets/bundles/uiprefabs_warehouse_warehousesubview2.unity3d
+SHA1-Digest: y0IHxSlecmNvG7Fh+4rqgwDj9sQ=
+
+Name: assets/bundles/heros_ship_10031_ship_10031.unity3d
+SHA1-Digest: KEg0ojeWeg+hkqqlv/uKwq9UKls=
+
+Name: assets/bundles/heros_ship_10016_ship_10016.unity3d
+SHA1-Digest: Zc3ukL67z0kC28z6ZqrIV5nbANI=
+
+Name: assets/bundles/uiprefabs_legion_legioninfoview.unity3d
+SHA1-Digest: fH7dqdza1suLfVLBzGczJ7PzydE=
+
+Name: res/layout/sb_notification.xml
+SHA1-Digest: cq+ptI8DeICGbd4jEmE9N9ixGFY=
+
+Name: assets/bundles/audios_u_034.unity3d
+SHA1-Digest: JmU27yOI9umuJZBTArCCij0mtEw=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysdealview.unity3d
+SHA1-Digest: 4lEmQ/5c1l+AoA6QB2gHydIHdrM=
+
+Name: assets/bundles/buildings_playersstrongholdlv5.unity3d
+SHA1-Digest: rps1cphpN+hED6gcuwBHKH3H1Jk=
+
+Name: assets/bundles/uiprefabs_recharge_rechargeview.unity3d
+SHA1-Digest: sWrwp03JDooQgA3SgFdX3GkF8IA=
+
+Name: assets/bundles/audios_u_001.unity3d
+SHA1-Digest: tzKfjb/6q1HoQueMQUIkkGFHGtM=
+
+Name: assets/bundles/audios_sound_3star.unity3d
+SHA1-Digest: R0f7keml1oveJ3+CBJk6wnsHuDU=
+
+Name: assets/bundles/uiprefabs_legion_legioncallwarfightresultpanel.un
+ ity3d
+SHA1-Digest: fOv4b2xQwiTc5XNnfi/up5gbsec=
+
+Name: assets/bundles/uiprefabs_redpacket_redpacketrainpanel.unity3d
+SHA1-Digest: +/BJrTgsW3rq1UQZFJqjhter06g=
+
+Name: assets/bundles/ui_bg_army_general_mask.unity3d
+SHA1-Digest: 8s/pc1yMS9BVaDN8cWOd9JAUTRQ=
+
+Name: assets/bundles/heros_animations_ship_10030_shouji.unity3d
+SHA1-Digest: 4QVUQ5f/L+t+Gspm8QUDCUBqP4M=
+
+Name: assets/bundles/uiprefabs_battleshipfactory_battleshipfactoryview
+ .unity3d
+SHA1-Digest: 0LndqRr6+WhxzKLGv+piaxc0yzI=
+
+Name: assets/bundles/uiprefabs_military_militaryviewsub1.unity3d
+SHA1-Digest: 3AA/rMzge8Wxk2VUkBIs8UY0avY=
+
+Name: lib/armeabi-v7a/libtpnsSecurity.so
+SHA1-Digest: PzzcRZcABF4BBm9g9xpt3CXXxnU=
+
+Name: assets/pb/instance.pb
+SHA1-Digest: fmeopDTGNCOsJoIz3t1GaOgnAVM=
+
+Name: assets/bundles/heros_ship_10006_ship_10006.unity3d
+SHA1-Digest: afxmWjVbx61FGYyRvAlkdTSht78=
+
+Name: assets/bundles/ui_legionwar_legionwar.unity3d
+SHA1-Digest: iZOh9JbP3+JkS/2ebAtg4NprrjA=
+
+Name: assets/bundles/uiprefabs_legion_legionhallview.unity3d
+SHA1-Digest: jfNLzpCJP67ogtS7wvssH4ceVWc=
+
+Name: assets/bundles/heros_ship_10020_ship_10020.unity3d
+SHA1-Digest: 6ocT6hqIUur68BS2Qx0Ni2h8lvw=
+
+Name: assets/bin/Data/Managed/UnityEngine.Networking.dll
+SHA1-Digest: coL2Lm20nHc7WwXcaFyR0wFDMLM=
+
+Name: assets/bundles/uiprefabs_activity_activityequipfittingexchangevi
+ ew.unity3d
+SHA1-Digest: 0k9W2vBmXgNeL1A0nR8EXIu8fj4=
+
+Name: assets/bundles/audios_music_world2.unity3d
+SHA1-Digest: X+F2ihPY/EjJW3zwCSPdZ73AZHU=
+
+Name: assets/bundles/heros_ship_10019_ship_10019.unity3d
+SHA1-Digest: W06K7djJb1m/WNMds6WXVFoRyCY=
+
+Name: assets/bundles/uiprefabs_army_armyspeeduppanel.unity3d
+SHA1-Digest: ruurUbe1ZIuw2oFVNgR61hvferM=
+
+Name: assets/bundles/heros_animations_ship_10022_siwang.unity3d
+SHA1-Digest: AU2PRCmACEMg9AMYB+KR41o0150=
+
+Name: assets/bundles/uiprefabs_legion_legionlelfaresubview1rewardpanel
+ .unity3d
+SHA1-Digest: g5R/R06QLi0xsWKV3EyQNSjFzzU=
+
+Name: assets/bundles/uiprefabs_legion_legionshopview.unity3d
+SHA1-Digest: PiLZZhw43nzeMxisHQ4394M2LqI=
+
+Name: assets/ucgamesdk/lib/x86/lib_ucsdk_xcrypt.so
+SHA1-Digest: C7MS34tuec3sBFHDO+Spk2MMK0M=
+
+Name: assets/bundles/buildings_resourcestronghold.unity3d
+SHA1-Digest: sFXP5QG5ww0nN6sexavS4Sl4UcI=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubensubview2.unity3
+ d
+SHA1-Digest: fKN+gvQ+yegaK7R1nXD5nWqSuEk=
+
+Name: assets/bundles/uiprefabs_armyscience_armyscienceoperatesubview2.
+ unity3d
+SHA1-Digest: 2f3ZHtZcQZVN7HCMrjCbCTCUXyg=
+
+Name: assets/bundles/uiprefabs_equip_equipview.unity3d
+SHA1-Digest: 42mVbFqUCJ7VdnDxFqwK/rbBIQU=
+
+Name: assets/bundles/uiprefabs_fuben_fubensubview2.unity3d
+SHA1-Digest: r60DBVtzTxcTT8Mgi8s5eI5vBsM=
+
+Name: assets/bundles/audios_u_023.unity3d
+SHA1-Digest: 6ddzZlTalgUJGCX+8AjpEfWZ3mY=
+
+Name: assets/bundles/ui_bg_login_bg.unity3d
+SHA1-Digest: nzfrmSllxB/RF3lqrhVZtXVhL2k=
+
+Name: assets/bundles/uiprefabs_fuben_fubenchallengeinfopanel.unity3d
+SHA1-Digest: sVKXkMY7i73Zt9nQMV0UnpXKxWM=
+
+Name: assets/pb/general.pb
+SHA1-Digest: s5dNZg6OaJZZeBjAB3NTqhc+qZc=
+
+Name: assets/bundles/scenes_base_dps.unity3d
+SHA1-Digest: e2AwFi7czsckiaX1jduaHpZPDJY=
+
+Name: assets/bundles/audios_hengpai_hit.unity3d
+SHA1-Digest: CdiYT/iNSlV/lKM1tqthOWudKZA=
+
+Name: assets/bundles/uiprefabs_armyscience_armysciencesubview3.unity3d
+SHA1-Digest: V2MNqL+tHB+aUN0fSzWjWx1xaJA=
+
+Name: assets/bundles/heros_animations_ship_10001_gongji.unity3d
+SHA1-Digest: 2NZdkNBYctbP6b5SDX2MtW4panA=
+
+Name: assets/bundles/ui_common_common_img10.unity3d
+SHA1-Digest: leQZMiNvp0Czpf9BX5CFFPHJCws=
+
+Name: assets/bundles/uiprefabs_equip_equipdetailpanel.unity3d
+SHA1-Digest: j90nesx1/ZFcA7MNQzEUxlW8J8w=
+
+Name: assets/bundles/uiprefabs_military_advancerewardpanel.unity3d
+SHA1-Digest: 9Zul4AgzskRBUeGg7j+nE1aUQ/c=
+
+Name: assets/bundles/audios_a001_03.unity3d
+SHA1-Digest: KMFWNPVnOmarWxB+0EpwyJC9xCc=
+
+Name: assets/bundles/uiprefabs_army_armybattlearray.unity3d
+SHA1-Digest: Ifd13NqlxlkFotusNjiLC5ZGtfg=
+
+Name: assets/bundles/uiprefabs_armyscience_armyscienceresearchpanel.un
+ ity3d
+SHA1-Digest: DQmzCGgC5rKk6qoiAu4GfZzprHw=
+
+Name: assets/bundles/shaders_art_shaders01_mymobileuvsine_blend.unity3
+ d
+SHA1-Digest: RkV9n9bkx58NdgG9euyMRhDqrn0=
+
+Name: assets/bundles/uiprefabs_common_commonpanelbackground.unity3d
+SHA1-Digest: 9K2Tt0uvzqQUXtl3ygbcxquFl/Q=
+
+Name: assets/bundles/uiprefabs_shop_buysettinglpanel.unity3d
+SHA1-Digest: ygfxmorYjxCb3fKeN//7jjKS3LU=
+
+Name: assets/bundles/audios_a001_03_02.unity3d
+SHA1-Digest: 1C12GcU6axiUrf3xJf3MDUqQa00=
+
+Name: assets/bundles/uiprefabs_equip_equipwearpanel.unity3d
+SHA1-Digest: MHT7yVB7Y8ssundRM5HDaSpR4tc=
+
+Name: assets/bundles/maps_oceanplane_judianlv02.unity3d
+SHA1-Digest: hVMFrrxxgIjqA/is4w6xo3oPyXM=
+
+Name: assets/bundles/npcs_yezhu_yezhu.unity3d
+SHA1-Digest: 0JBBUG/RbcHoTxqpU2UBxbAzWR8=
+
+Name: assets/bundles/uiprefabs_activity_activityregisternhourview.unit
+ y3d
+SHA1-Digest: BCqvLX1e3/Id+gzA1EcjC01kWDA=
+
+Name: assets/bundles/audios_u_026.unity3d
+SHA1-Digest: sJGAttq3Ash1+PWk2r+uvysN0v4=
+
+Name: assets/bundles/effects_materials_img_effect_shizhig002ad.unity3d
+SHA1-Digest: 2hzW+bLXTK9CVXsoD9fZKFmzR4w=
+
+Name: assets/bundles/uiprefabs_fuben_fubenstoryview.unity3d
+SHA1-Digest: pR8eraBwL8xsJVj+usALcO17aVU=
+
+Name: assets/pb/rqmsg.pb
+SHA1-Digest: mAkmzYiC4e5aesazqpeqrjaKKbk=
+
+Name: assets/bundles/heros_materials_ship_01.unity3d
+SHA1-Digest: PxGCl/s+oWb1FhEycMY6JdUGfnU=
+
+Name: assets/pb/legionWar.pb
+SHA1-Digest: xJ4kexyAZZ5jm7wQOYVDCGGs2tU=
+
+Name: assets/pb/item.pb
+SHA1-Digest: 2zZbPrFCgbhUTeFegKF2HkBjYyE=
+
+Name: assets/bundles/fonts_fighthurtfont_fighthurtfont.unity3d
+SHA1-Digest: hpbVnDLFS8nkVOo05JAPAv5ntCc=
+
+Name: assets/bundles/maps_textures_shadow.unity3d
+SHA1-Digest: sKiRSG/CTgxlzmnY/ug4ZBFr70o=
+
+Name: assets/ucgamesdk/lib/armeabi-v7a/list
+SHA1-Digest: G0BFMjfl8DwbQjih+mQ9jhmJrkA=
+
+Name: assets/bundles/uiprefabs_redpacket_redpacketusetextselectpanel.u
+ nity3d
+SHA1-Digest: ReDaW9hXZlrAHUc3EL8o7e+sqTU=
+
+Name: assets/bundles/uiprefabs_main_mainview.unity3d
+SHA1-Digest: 9lcqQacv2XcsuISQW3ek6KyDMzA=
+
+Name: assets/bundles/uiprefabs_chat_chatsubview.unity3d
+SHA1-Digest: QVVCCGd6LxCtX3Cwo15yR6zXq4A=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: 4Eu5Bf1Oc9IkqhWXil5UsW/D/cg=
+
+Name: assets/bundles/uiprefabs_army_armyview.unity3d
+SHA1-Digest: Jm1TqqKNfDKD50SKeYBr1s85e+w=
+
+Name: assets/bundles/uiprefabs_fitting_fittingdebrisresolvepanel.unity
+ 3d
+SHA1-Digest: j21ToP5S+151qdsx2whyy2MIGEs=
+
+Name: assets/bundles/maps_textures_playersstrongholdlv2_bake.unity3d
+SHA1-Digest: M1LVHaW92Qy+y//AlYqVpnb8/1g=
+
+Name: assets/bundles/uiprefabs_fuben_fubenrecordpanel.unity3d
+SHA1-Digest: 1hnxPcACwB+5FnZ41cueLnebzdI=
+
+Name: assets/bundles/npcs_zhangguan_zhangguan.unity3d
+SHA1-Digest: r+4xvgczKsQEdvkS5TwfVH4r9Q8=
+
+Name: assets/bundles/heros_ship_10024_ship_10024.unity3d
+SHA1-Digest: odYG6WwqhrlMsz/RXzVdexTragk=
+
+Name: assets/bundles/uiprefabs_legion_legioncallwarviewsubview2.unity3
+ d
+SHA1-Digest: 3p6iuiy34w3szSpOWCMkc2HWWuE=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenbarcraftatkpane
+ l.unity3d
+SHA1-Digest: y/TUod9QEL/sikPWmTsF823Yrww=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenfightrecordsubv
+ iew1.unity3d
+SHA1-Digest: WkfmaAipFxMWXJqyb5Gb2QHBgdM=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: XPBDmSpO03bnoiMI+iWOPEgqCVI=
+
+Name: assets/bundles/audios_dub_0001.unity3d
+SHA1-Digest: IE10VTyucywtqR2PXGzZ2IxtnoE=
+
+Name: assets/bundles/audios_sound_revealer.unity3d
+SHA1-Digest: rm/U01erdvVLsmg4l4zTVkFWjBs=
+
+Name: assets/bundles/maps_materials_playersstronghold_01.unity3d
+SHA1-Digest: S83B8EDXyGqt+0+ssOt2tNUCPro=
+
+Name: assets/bundles/shaders_art_worldwaterhighmap.unity3d
+SHA1-Digest: 3F5D+KqWNEvDovCtkHBd8fY0ivQ=
+
+Name: assets/bundles/uiprefabs_world_worldattackmypanel.unity3d
+SHA1-Digest: GJaAEKX4vau3gt0okP5R63E+Jhc=
+
+Name: assets/bundles/uiprefabs_arena_arenasubview3.unity3d
+SHA1-Digest: NgEjF76PV/RT2eCm0eCvejIVsj8=
+
+Name: assets/bundles/audios_music_yuanzheng_01.unity3d
+SHA1-Digest: 7SuXDatpfEGn+Ee9DG/o1Jv5rC8=
+
+Name: assets/pb/workshop.pb
+SHA1-Digest: ThKmDFHoMvMCq2/0f96CzO0egXg=
+
+Name: assets/bundles/shaders_art_fxwater4advanced.unity3d
+SHA1-Digest: G0VtDavqZw21QYrjh7XeBpTdGA4=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenfengbeisubview1
+ .unity3d
+SHA1-Digest: mHcXocuJeQW8pf8F/rnlCRayQcE=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: /B1a+ZCUuNBOyJgAV5JLYhEIxRc=
+
+Name: assets/bundles/uiprefabs_redpacket_redpacketresshowpanel.unity3d
+SHA1-Digest: seYIECfkAh8ipiu0JCicY7847sM=
+
+Name: assets/bundles/uiprefabs_armyscience_armyscienceoperateview.unit
+ y3d
+SHA1-Digest: ZHiVqkTQV/m8LbzrMtV56sj7Tgo=
+
+Name: assets/bundles/uiprefabs_equip_equipupgradepanel.unity3d
+SHA1-Digest: pbTXcuw5UO22NnCunpeKMa4lSGc=
+
+Name: assets/bundles/buildings_newyear_cheap.unity3d
+SHA1-Digest: WhOlfNqyWCxto3UYF+te0yklcFc=
+
+Name: assets/bundles/uiprefabs_arena_arenareportpanel.unity3d
+SHA1-Digest: o8oHIx/F89LZJpL7Vw6gD+S5wgI=
+
+Name: assets/bundles/uiprefabs_world_worlddonaterankviewsubview1.unity
+ 3d
+SHA1-Digest: /c3adGtWjXyAGLSp5wDyiDb7SKY=
+
+Name: assets/bin/Data/ac434723c973f724da106ca08155bbfe
+SHA1-Digest: 3ZIntc/TKhB69MYM7RTuILTHDTM=
+
+Name: assets/bundles/uiprefabs_arena_arenaintegrationview.unity3d
+SHA1-Digest: VxR3QXaz9tVraxLHZuCU3Cqa2DA=
+
+Name: assets/bin/Data/Managed/UnityEngine.xml
+SHA1-Digest: vPv/pb3GY4y4OrKKFvT9/XLlCcE=
+
+Name: assets/bundles/uiprefabs_main_mainnpcview.unity3d
+SHA1-Digest: GIx4PfEA2M6CTJ9OHPI9Ym8gRAs=
+
+Name: assets/bundles/shaders_art_mymobilewaterhighmap.unity3d
+SHA1-Digest: D8HF6DJhOdOHb5AvHHMHJUI/0co=
+
+Name: assets/bundles/uiprefabs_common_commonuseitempanel.unity3d
+SHA1-Digest: s04I3JC9P9zLU/UHA7nCNM/0EWE=
+
+Name: assets/bundles/uiprefabs_activity_activityfirstrechargepanel.uni
+ ty3d
+SHA1-Digest: UeMOURaHGWvUId73/mPsyLI9rNk=
+
+Name: assets/bundles/effects_alleffects.unity3d
+SHA1-Digest: zNGAaTcj0VOg1ukbKFQTKREjXI8=
+
+Name: assets/pb/enemy.pb
+SHA1-Digest: TTGFl4GDi46PkQgjsoUlPXC3QHU=
+
+Name: assets/bundles/uiprefabs_army_armysubview1.unity3d
+SHA1-Digest: IDCgB2+YaoaAM7Q/0wKv/xLq5Ik=
+
+Name: assets/bundles/uiprefabs_activity_activityexchangepanel.unity3d
+SHA1-Digest: vAY0LZ46yTuOgL6qWnhe3y+4kq8=
+
+Name: assets/bundles/uiprefabs_activity_activitysignsubview2.unity3d
+SHA1-Digest: H2aSZe7NPpntg/z12p+JIPTYS2A=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenserverfightsubv
+ iew4.unity3d
+SHA1-Digest: kZf9oTjPNMYbW3IElKZdQjb7EHU=
+
+Name: assets/bundles/uiprefabs_armyscience_armyscienceview.unity3d
+SHA1-Digest: nF996g/ZIBIOR9wLXMaEuVRNxrY=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.utils.apk
+SHA1-Digest: jIA5EqphKYfxDQHE9NdZI0YtKLg=
+
+Name: assets/bundles/uiprefabs_legion_legioncallwarresultlistviewsubvi
+ ew1.unity3d
+SHA1-Digest: koV1/+3pR8euPDKfm+S4tf3ybgA=
+
+Name: assets/bundles/heros_ship_10018_ship_10018.unity3d
+SHA1-Digest: 2XbMNk23LSXKZHQH0IQRHdUiMWw=
+
+Name: assets/bundles/audios_u_011.unity3d
+SHA1-Digest: 67S9Ah9dLkjlujTynrc7roLKpv0=
+
+Name: assets/bundles/audios_u_040.unity3d
+SHA1-Digest: TpiQDmPyACXRYNS2fbyEuslkAII=
+
+Name: assets/bundles/heros_animations_ship_10025_gongji.unity3d
+SHA1-Digest: 3LWZTMlYoXfr3YQarnAa5L6B9sc=
+
+Name: assets/bundles/heros_ship_10010_ship_10010.unity3d
+SHA1-Digest: btXmV7fOlUORGYDwQ+JSqrHICb4=
+
+Name: assets/bundles/uiprefabs_main_mainbuildingmodifyview.unity3d
+SHA1-Digest: jbDWRyYMepAOuvkx3rdfSnFYIa0=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenfengbeisubview3
+ .unity3d
+SHA1-Digest: 3unKEq4zzuroK39xQrKdlLOXnjs=
+
+Name: assets/bundles/audios_hengpai_miss.unity3d
+SHA1-Digest: 5nZwzFP4UHNSpRlC3R3EL6k67AY=
+
+Name: assets/bundles/uiprefabs_fuben_fubensubview3.unity3d
+SHA1-Digest: yLwPBZHaXCmiPR7GroGRN9cj6lw=
+
+Name: assets/bundles/maps_materials_world_foot.unity3d
+SHA1-Digest: UyOxT0PsGOL+xFXSQ1z5KND9Hmk=
+
+Name: assets/bundles/uiprefabs_quest_questachievementrewardpanel.unity
+ 3d
+SHA1-Digest: EqcVU7HGt+wdyX7AomlBCeilAMY=
+
+Name: assets/bundles/heros_animations_ship_10029_siwang.unity3d
+SHA1-Digest: 5LtmV6zy4uG0K2vuZRpw2E5IG2w=
+
+Name: assets/bundles/heros_animations_ship_10036_daiji.unity3d
+SHA1-Digest: uamGhszBalZ1M8JDUE2K7ad/gU8=
+
+Name: assets/pb/quest.pb
+SHA1-Digest: OcymwFcDd7Dv1GlSXnBR4MwcCXk=
+
+Name: assets/pb/rank.pb
+SHA1-Digest: MM+ZTKdNPccZd5Pxz126u2EdqMo=
+
+Name: assets/bundles/uiprefabs_equip_equipresprunepanel.unity3d
+SHA1-Digest: XH3xPWpmaBRTFbBbHopw5Wnw0Yw=
+
+Name: assets/bundles/uiprefabs_activity_activitywendaview.unity3d
+SHA1-Digest: 9ZYiI727hdjqq+WoZH9hXhExVE4=
+
+Name: assets/bundles/heros_animations_ship_10031_siwang.unity3d
+SHA1-Digest: LIoKG4OxhcTrvoIeJ7bq/o6lJMI=
+
+Name: assets/bundles/uiprefabs_chat_chatgmsubview2.unity3d
+SHA1-Digest: fO+McGkqbeE/WTSEsPVYbUG1UCk=
+
+Name: assets/bundles/ui_bg_mishu_bg.unity3d
+SHA1-Digest: hXkyE/OLRmdcXCiU1oRtUVHYJuQ=
+
+Name: assets/bundles/uiprefabs_common_commonpropgrid.unity3d
+SHA1-Digest: XXz6VD0+QtzLVzXmeN/Yp9RWqSg=
+
+Name: assets/pb/player.pb
+SHA1-Digest: MBBmKffJSrwkV4WkuIRviI8kgtU=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssyspricepanel.unity
+ 3d
+SHA1-Digest: sLOuHk8OkzudLFgCJjDpjZPWoEY=
+
+Name: assets/bundles/uiprefabs_legion_legionlelfaresubview2.unity3d
+SHA1-Digest: 0zF5gBUUnD7Uom8UED4VV91W34s=
+
+Name: assets/bundles/uiprefabs_army_armydefendsubview1.unity3d
+SHA1-Digest: 6vZqLOBkKZeT5XpI//8/IETy4i0=
+
+Name: assets/pb/chat.pb
+SHA1-Digest: XYh0+52QCcaj3jlzNpaVq/kfAHw=
+
+Name: assets/pb/notice.pb
+SHA1-Digest: Oqa8TPEEJ+PBh68UE83Hq2YvsMQ=
+
+Name: assets/bundles/uiprefabs_warehouse_warehouseview.unity3d
+SHA1-Digest: bUq4Y3ss7pJQmmVwvLkz0gAuQRE=
+
+Name: assets/bundles/ui_createrole_createrole.unity3d
+SHA1-Digest: vdmAbVsHT0DtfmaZIXMA5z3l83k=
+
+Name: assets/bundles/maps_materials_shadow.unity3d
+SHA1-Digest: o43NAP1WBm0/PxHAdw7oQ7hsnvo=
+
+Name: assets/pb/business.pb
+SHA1-Digest: ZYkh4bwyHXvFff41SzX01oZ1nME=
+
+Name: lib/armeabi-v7a/libmono.so
+SHA1-Digest: P5xqrdA1VM1qSgfe/EbBJERDfls=
+
+Name: lib/armeabi-v7a/libtolua.so
+SHA1-Digest: mopjav7P+6Bm3x0te/LZdEyyM1o=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.loader.apk
+SHA1-Digest: AgXV7nPJ9bjDoHvoSFfMHQyWnX8=
+
+Name: assets/bundles/uiprefabs_activity_activitylotteryshowrewardpanel
+ .unity3d
+SHA1-Digest: f1eJXhj3wtJHCGKXkbGCGI3MEes=
+
+Name: assets/bundles/heros_animations_ship_10003_daiji.unity3d
+SHA1-Digest: CopQ/FwSOFY5Xk40nWG4KOUYqTQ=
+
+Name: assets/bundles/uiprefabs_quest_questsubview1.unity3d
+SHA1-Digest: xN1yj3HrnQ2VEstOE9Hr19txixY=
+
+Name: assets/bundles/uiprefabs_main_mainobjtxtbubble.unity3d
+SHA1-Digest: 38is/KDXA845BNPXG8V5N6HByRM=
+
+Name: assets/bundles/uiprefabs_military_militaryviewsub2.unity3d
+SHA1-Digest: lN5Y4LTePSXjfTEMU5x9+4jz18s=
+
+Name: assets/bundles/maps_textures_enemycamp_bake.unity3d
+SHA1-Digest: na4BtIsJvgJSTxTyje7LriFKHTk=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.update.apk
+SHA1-Digest: q4uJophMlJZ5JWdK87DkRXD+I6c=
+
+Name: assets/ucgamesdk/lib/mips/list
+SHA1-Digest: UIs4sFWA8YOU+nSbevBHxsEhyX8=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA1-Digest: FT2IMMyzADdOVvMK8lL/XySpAsk=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssyspricelistsubview
+ 1.unity3d
+SHA1-Digest: +R/hbofIX/B06J9RlPZM6YaETZw=
+
+Name: assets/bundles/ui_military_military.unity3d
+SHA1-Digest: GQdSgQo3jXmWMAb0kbuJQ5w4W4A=
+
+Name: assets/bundles/uiprefabs_arena_arenareportsubview1.unity3d
+SHA1-Digest: V/nQKATkvLYwjccHLJd6c0fua1s=
+
+Name: assets/bundles/uiprefabs_world_worldinputpanel.unity3d
+SHA1-Digest: tYMaBY5IJGbPJV3KHNSLbG17RJs=
+
+Name: assets/bundles/uiprefabs_world_worldgarrisonspanel.unity3d
+SHA1-Digest: MGRZv33tdwQcegtSmJ5AztmzlzQ=
+
+Name: assets/bundles/buildings_ironpointslv3.unity3d
+SHA1-Digest: hHGgEccikuVgjJP9yugqbrnR/Jw=
+
+Name: assets/poolsdk.xml
+SHA1-Digest: 0/+6rvVfOXNAazUXVX6R/+FtsH4=
+
+Name: assets/pb/mineWar.pb
+SHA1-Digest: ptvB01szQSw8FqLwMZUaMMM7ZLI=
+
+Name: assets/bundles/uiprefabs_legion_legioninformationstationview.uni
+ ty3d
+SHA1-Digest: QbK8a7w+fVE/LLXg3QUEUL85cr0=
+
+Name: assets/bundles/uiprefabs_social_socialsubview3.unity3d
+SHA1-Digest: m0GY46cAEmmbXulEFsWvYF5Zjx0=
+
+Name: assets/bundles/audios_dub_0002.unity3d
+SHA1-Digest: NBWK6vlFY+rhNbHZby9nU9voUUk=
+
+Name: assets/bundles/uiprefabs_main_maingetpositionpropspanel.unity3d
+SHA1-Digest: EoArKMoK7G4RkSYlXPfIGACZtzA=
+
+Name: assets/bundles/shaders_art_shaders01_mymobileskygrayscaletoalpha
+ .unity3d
+SHA1-Digest: PgSeDkPM3Rk6WczwzXB84f++cB8=
+
+Name: assets/bundles/uiprefabs_seekcard_seekcardsubview1.unity3d
+SHA1-Digest: lBKCd+jWRpyTmZuBXfDfvmXnN8w=
+
+Name: assets/bundles/heros_animations_ship_10020_daiji.unity3d
+SHA1-Digest: cIYlfHP+ec7sNAGsa1lFFVLCokU=
+
+Name: assets/bundles/heros_textures_ship_02.unity3d
+SHA1-Digest: 7QOcZawAzDqLD5DpMF9P2B14m50=
+
+Name: assets/bundles/uiprefabs_seekcard_seekcardrewardpanel.unity3d
+SHA1-Digest: bTNzHPpoY6QCJ1VE60A/ktPaW18=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenhundredfighting
+ view.unity3d
+SHA1-Digest: Nr5sjbbLebYGMGKSFKVT/lGkpxs=
+
+Name: assets/bundles/maps_textures_yanshi_01.unity3d
+SHA1-Digest: kkINoAwozUrlyb4BZKtl7De5i34=
+
+Name: assets/bundles/audios_d_p001_01.unity3d
+SHA1-Digest: Hwssj2Z7ISjX83fhVG+oNSTG7gk=
+
+Name: assets/bundles/uiprefabs_fuben_fubenadventurepanel.unity3d
+SHA1-Digest: EFNjOtgZRR193bn+XYb1m8KwF8Q=
+
+Name: assets/bundles/uiprefabs_makeworkshop_makeworkshopsubview2.unity
+ 3d
+SHA1-Digest: 4xyOxuwl4BBkL62I5yZnFP8r118=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.lib.apk
+SHA1-Digest: XgJMi7b4PLyFvPPmo5wSiEx8h0s=
+
+Name: assets/bundles/uiprefabs_main_mainbuildingmodifydetailpanel.unit
+ y3d
+SHA1-Digest: tpqA5NyVgSw4XDpenAP0im6CGJo=
+
+Name: assets/bundles/uiprefabs_legionreswar_legionreswarfightpanel.uni
+ ty3d
+SHA1-Digest: /Oww4MxDMAZOtRcfzT5wQNSxJMM=
+
+Name: assets/bundles/maps_oceanplane_judianlv03.unity3d
+SHA1-Digest: aSzYSuvxXqdP/VwfsUe85vsyxII=
+
+Name: assets/bundles/uiprefabs_army_armysubview3.unity3d
+SHA1-Digest: LlCbQ8u5JStYka6qivItXyjPeEA=
+
+Name: assets/bundles/heros_animations_ship_10014_siwang.unity3d
+SHA1-Digest: ueOp7vU/0EQxGz32VqWnkMr40nI=
+
+Name: assets/bundles/uiprefabs_fightguide_fightpowerview.unity3d
+SHA1-Digest: Zsp1JAutrdxTEZnj+M2baYK1hDw=
+
+Name: assets/bundles/uiprefabs_warfactory_warfactoryproducepanel.unity
+ 3d
+SHA1-Digest: iXn5CcjJE9aRhf3RgfbVggRg5N8=
+
+Name: assets/bundles/uiprefabs_common_battleshipinfo_battleshipinfopan
+ el.unity3d
+SHA1-Digest: 9p4divVkq2S1v2AGLIOlnfaf5/c=
+
+Name: assets/bundles/heros_ship_10002_ship_10002.unity3d
+SHA1-Digest: q4+1N5BN8bVfpeFzrdcUE39rOdI=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenserverfightsubv
+ iew2.unity3d
+SHA1-Digest: B2F2PF0LGwvFO3EnBg722YVAEMY=
+
+Name: assets/bundles/uiprefabs_makeworkshop_makeworkshopview.unity3d
+SHA1-Digest: pK5w7zdz4ntGttZarZGk9be2OEk=
+
+Name: assets/bundles/uiprefabs_activity_activitylogingiftview.unity3d
+SHA1-Digest: wnYolQi/aajWhOJOFJ4bp/FqrpY=
+
+Name: assets/bundles/shaders_art_rim.unity3d
+SHA1-Digest: c46ujTPbO65qpiUW0W3JSGLlliI=
+
+Name: assets/bundles/uiprefabs_makeworkshop_makeworkshopsubview3.unity
+ 3d
+SHA1-Digest: wF31steJzwnbcJAAOep53bdpw2c=
+
+Name: assets/bundles/audios_u_015.unity3d
+SHA1-Digest: 8L8ZhQm24h5nD3KScLK5nxg0CsM=
+
+Name: assets/bundles/ui_bg_recharge_bg.unity3d
+SHA1-Digest: 5XnlHUWAD5EBLabjqUlXR0oKAgg=
+
+Name: assets/bundles/maps_oceanplane_judianlv04.unity3d
+SHA1-Digest: ASd3+nneJySqtIe0y5887T0v/o8=
+
+Name: assets/bundles/uiprefabs_legionreswar_legionreswarrankview.unity
+ 3d
+SHA1-Digest: 7njViCNMQPYtzWQgku7qFlKa9xY=
+
+Name: res/layout/dhh_loading_dialog.xml
+SHA1-Digest: QE+dOUDaC2JMyLxfUo0gS10WbkQ=
+
+Name: assets/bundles/heros_ship_10032_ship_10032.unity3d
+SHA1-Digest: zYHVZ+4kML64Qb/RADtfvBgNn4w=
+
+Name: assets/bundles/audios_u_019.unity3d
+SHA1-Digest: HHmBD6jk2LbRuby0V2Kr/d+K9QY=
+
+Name: assets/bundles/buildings_playersstrongholdlv9.unity3d
+SHA1-Digest: VqF9caCsvGYTGSQVhMo8Xo+Oz+4=
+
+Name: assets/pb/userGuide.pb
+SHA1-Digest: AtcowLPOx177/VCyHcXA6ddviEw=
+
+Name: assets/bundles/uiprefabs_fight_fightshipinfopanel.unity3d
+SHA1-Digest: XBGh4Jd5i8u5mTEGACqDTI0abaE=
+
+Name: assets/ucgamesdk/lib/x86_64/lib_ucsdk_softlink.so
+SHA1-Digest: 3ElQRp5A3DbgJgdsEOvnlzDn7Ho=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysconversionview.u
+ nity3d
+SHA1-Digest: wJpw2jilC1V4R+nXQCKTqG3CgP4=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysstoresubview1.un
+ ity3d
+SHA1-Digest: uXirt3A6MUR4a6+aKgwmpJpD6yc=
+
+Name: assets/bundles/uiprefabs_shop_shopsubviewdiscount.unity3d
+SHA1-Digest: dsIF8bEV+j7LNkzRO3rDT3Kq92M=
+
+Name: assets/bundles/buildings_playersstrongholdlv1.unity3d
+SHA1-Digest: InDc8OkXqjU0BHMs45Mo4ZciKz4=
+
+Name: assets/bundles/uiprefabs_seekcard_seekcardsubview2.unity3d
+SHA1-Digest: Hw2UVCcgHJ3ABhC13EDNoIudYfA=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerinforeportpanel.unity3
+ d
+SHA1-Digest: Gl7oZFRNxWp3F4VEHT9l+afU1SA=
+
+Name: assets/bundles/uiprefabs_legion_legionbuildingview.unity3d
+SHA1-Digest: XUIZPyan0DjBrR2F46tlNUl6lGw=
+
+Name: assets/bundles/uiprefabs_email_emailview.unity3d
+SHA1-Digest: s/mJ2VVscajXnrBnUkKheFlf6HI=
+
+Name: assets/bundles/uiprefabs_common_gameloading.unity3d
+SHA1-Digest: FdwxuKiRix39GmRWa6QNqXyzr8A=
+
+Name: assets/bundles/uiprefabs_arena_arenasubview2.unity3d
+SHA1-Digest: UQFlw8JGS6QfkhBP02aJr/Pozas=
+
+Name: assets/ucgamesdk/lib/x86_64/lib_ucsdk_patch.so
+SHA1-Digest: zIC0CrJB0IVJsUxnIVpeJUmYSN4=
+
+Name: assets/bundles/uiprefabs_military_recruitrewardpanel.unity3d
+SHA1-Digest: aTraRJazIsQz+vVKzaLJUoFk8GU=
+
+Name: assets/bundles/maps_oceanplane_judianlv05.unity3d
+SHA1-Digest: 0W/r/87yVikuzdLC5/euAO4Ox2s=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.floater.apk
+SHA1-Digest: PMHmROhBUWrLIDvlk1FnSogX0bg=
+
+Name: assets/bundles/maps_oceanplane_judianlv01.unity3d
+SHA1-Digest: rSkSGJ+/LbSkV0dRniv0VoQy5xY=
+
+Name: assets/bundles/audios_music_open_01.unity3d
+SHA1-Digest: fSSog0TTRnYeQHpa7YnZtwHWqjo=
+
+Name: assets/bundles/uiprefabs_fitting_fittingstrengthenpanel.unity3d
+SHA1-Digest: kHSYwEZs6+5GUpH19a6hCW6imNw=
+
+Name: assets/bundles/maps_textures_enemycamp.unity3d
+SHA1-Digest: dw0wYQvJ/uQg8kblAVgvjAgj28c=
+
+Name: assets/bundles/heros_animations_ship_10006_xingzou.unity3d
+SHA1-Digest: 9R/a7Ajc5SFPf5la0/mP19uferE=
+
+Name: assets/bundles/uiprefabs_world_worlddonaterankview.unity3d
+SHA1-Digest: dxveI+6rVmiLDLfTKtbPJZ+BDpA=
+
+Name: assets/bundles/audios_danti_hit.unity3d
+SHA1-Digest: Dlj849m0floKxiqCva+REB2+mP4=
+
+Name: assets/bundles/uiprefabs_userguide_userguideview.unity3d
+SHA1-Digest: HCDsm5MXpXQkR6GBcxVSYdmJLdg=
+
+Name: assets/bundles/maps_materials_enemycamp02.unity3d
+SHA1-Digest: zWXt17L9DsD5ZV5irZgEWGsxxG0=
+
+Name: assets/bundles/uiprefabs_vip_vipdescview.unity3d
+SHA1-Digest: GhfiVvudJqM94T/cIA8GFnnkRdI=
+
+Name: assets/bundles/uiprefabs_chat_chatgmview.unity3d
+SHA1-Digest: 8wLDtT5g2yTK+328yBlAEsLWulo=
+
+Name: assets/ucgamesdk/lib/armeabi-v7a/lib_ucsdk_softlink.so
+SHA1-Digest: 57stbXA9iyp2zaWIiDLmzCotn/k=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysmapthumbnailpane
+ l.unity3d
+SHA1-Digest: 2YC/pYYen1iJn7I8tpHYG95TlKo=
+
+Name: assets/pb/littleSecretary.pb
+SHA1-Digest: S+vfXrBz25jXkzoVXIZnnM+ygAw=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: iFHawDXXrjY+JaIPQBAqwaSipWk=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.account.apk
+SHA1-Digest: LgWsMYPqAB56J3XPJmVILtzfczM=
+
+Name: assets/bundles/buildings_playersstrongholdlv0.unity3d
+SHA1-Digest: lNyzcXM6MvIDWZ/YFavFgRHZn+s=
+
+Name: assets/bundles/audios_sound_click_on.unity3d
+SHA1-Digest: 5cXfSG3qD+jCTlYCgvl2Nc009og=
+
+Name: assets/bundles/uiprefabs_activity_activityactpowerview.unity3d
+SHA1-Digest: NtrsoM1vD47npFH3w6kljIcB2V8=
+
+Name: assets/pb/fight.pb
+SHA1-Digest: rtnJJ+8REZ306iaCdLM7GA0PogU=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysformationsubview
+ 2.unity3d
+SHA1-Digest: 4W8afPJjpW4hDu1VGgdZ8Nog2oo=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysrankview.unity3d
+SHA1-Digest: E1SuyztsPV+S+FKpMOi4tnKacL8=
+
+Name: assets/bundles/maps_textures_section03_guanka09_dimian01_6.unity
+ 3d
+SHA1-Digest: U8PKeojkG6K36DHcOnnzKRJNRGs=
+
+Name: assets/bundles/audios_u_014.unity3d
+SHA1-Digest: 7SzT10Sr+uqioYyS54rqvvKvmhM=
+
+Name: assets/bundles/npcs_bosishangren_bosishangren.unity3d
+SHA1-Digest: 7wgk23XO7I6ApBFVXb6v/RUG/+k=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenview.unity3d
+SHA1-Digest: 6jDBbzBGyQZoQMWIwbffKDvCMyw=
+
+Name: assets/bundles/uiprefabs_main_mainshipview.unity3d
+SHA1-Digest: oKq1NoyEr8uOb09WeyDm8Pmwkws=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerheadsubview3.unity3d
+SHA1-Digest: H4JjLoI4lN4pCKZTOFK9mz/rs6U=
+
+Name: assets/bundles/uiprefabs_activity_activityallpeopleredpacketrewa
+ rdpanel.unity3d
+SHA1-Digest: nIMRulLU53U2JBZmqsolfgPo0tc=
+
+Name: assets/bundles/audios_danti.unity3d
+SHA1-Digest: q3uOL6nXqJnP5RhEPpkprlUnR/A=
+
+Name: assets/bundles/uiprefabs_army_armydefendview.unity3d
+SHA1-Digest: GbRw4THjgi/nYdm53ELRB4xzMkE=
+
+Name: assets/bundles/heros_animations_ship_10005_gongji.unity3d
+SHA1-Digest: hvIqRQv3IqukHV6VrYF4OEcD9uM=
+
+Name: assets/ucgamesdk/lib/armeabi-v7a/lib_ucsdk_xcrypt.so
+SHA1-Digest: 2FCWKHcoW9eMJi2RHLIHNG5TQJ4=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionbarcraftview.unity3d
+SHA1-Digest: NF2xuHPGqjw3tFjobPJFCfqE+Sk=
+
+Name: res/drawable-xhdpi-v4/dhh_loading_icon.png
+SHA1-Digest: t8wHdAdELb+rfaWPFyRY84noqcg=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysnearlyshippanel.
+ unity3d
+SHA1-Digest: Dh6dk1lLey9Sd7bBPHn24rxzPlI=
+
+Name: assets/bundles/ui_activity_activity.unity3d
+SHA1-Digest: tiI+j10ej5zHq1SmwPtwngVNkEo=
+
+Name: assets/bundles/uiprefabs_setting_settingview.unity3d
+SHA1-Digest: 52uDQgCnXdIY+wx7Eo8EndFPU1E=
+
+Name: assets/bundles/uiprefabs_world_lookplayerpanel.unity3d
+SHA1-Digest: opI6RyjWvFMHABUc+ImP0mjTlhI=
+
+Name: assets/bundles/maps_materials_enemycamp.unity3d
+SHA1-Digest: eGTqUkBV8TNI7z4FrI0JDw2dYkY=
+
+Name: assets/bundles/uiprefabs_userguide_userguidefunctionopentipsview
+ .unity3d
+SHA1-Digest: DxWBxvFo61UTftkyITWTvh985Nc=
+
+Name: assets/bundles/uiprefabs_fitting_fittingbagsubview1.unity3d
+SHA1-Digest: uNA3877GJcDLNW/CJXlaZN4ddZQ=
+
+Name: assets/bundles/maps_textures_tasharenwater.unity3d
+SHA1-Digest: TuwiGeVJUZ3bnOap7xnwon6vWv0=
+
+Name: assets/bundles/uiprefabs_world_kingofworld.unity3d
+SHA1-Digest: zdheavIJKivNTNxfnHWHAd0Dx3I=
+
+Name: assets/bundles/uiprefabs_world_worldview.unity3d
+SHA1-Digest: YeqHecLQe/c6ZgiPWCPb+qSudLQ=
+
+Name: assets/pb/legionCraft.pb
+SHA1-Digest: Co7SJBzGFUhtb2kgQgVHLGtTP5M=
+
+Name: assets/bundles/uiprefabs_activity_activityfirstchargeview.unity3
+ d
+SHA1-Digest: p7F9cscrEob8f7SYkf1z8GXN+GQ=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerinfosubview3.unity3d
+SHA1-Digest: sbuHtV9lG3r4h1UQWNewKR4lWwA=
+
+Name: assets/bundles/uiprefabs_quest_questrewardinfopanel.unity3d
+SHA1-Digest: utoLs7mIX557Sq6FZNwp8w6tcGY=
+
+Name: assets/bundles/ui_bg_vip_image_bg.unity3d
+SHA1-Digest: tx0UFMjdStxmf+zZcyuCge0FB64=
+
+Name: assets/bundles/audios_sound_draw_card.unity3d
+SHA1-Digest: vf2THhdtS3Pd1FB5fNq5EJSAqeE=
+
+Name: assets/bundles/uiprefabs_armyscience_armysciencesubview1.unity3d
+SHA1-Digest: e9C+NoZCl8ghv2Gif9GWGfr3UUQ=
+
+Name: assets/bundles/uiprefabs_arena_arenaview.unity3d
+SHA1-Digest: C3uJjUOQVmQdVp9R1iM3faUyO58=
+
+Name: assets/bundles/heros_ship_10015_ship_10015.unity3d
+SHA1-Digest: rCG08EwsxBm+qIb7aTdvcI5pfWI=
+
+Name: assets/pb/troop.pb
+SHA1-Digest: ew1Z+45nUjYBhpAsuOcbu9+fi60=
+
+Name: assets/bundles/uiprefabs_legionreswar_legionreswarsignuplegionpa
+ nel.unity3d
+SHA1-Digest: ElkzkQkhDB2fZxWIDJxr6ft5x/0=
+
+Name: assets/bundles/uiprefabs_legion_legioncallwarviewsubview3.unity3
+ d
+SHA1-Digest: emaj7ygRRbOP4Oh3vvtWvXALh88=
+
+Name: assets/bundles/heros_ship_10029_ship_10029.unity3d
+SHA1-Digest: 6Lqxi9n3JM2pYZrPuPmC5Ov2yL0=
+
+Name: assets/bundles/uiprefabs_common_commontxttips.unity3d
+SHA1-Digest: qYAQHmXSXNiSQE3ZKW2XzMCmwKE=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysformationsubview
+ 1.unity3d
+SHA1-Digest: GhXsuPLdxEOEaBNhn44mRqeEOdo=
+
+Name: assets/bundles/uiprefabs_activity_activitysignsubview1.unity3d
+SHA1-Digest: P+vfiTAUumGb/khZ9m3o4O3G/oU=
+
+Name: assets/bundles/audios_music_world.unity3d
+SHA1-Digest: DbkSno0EGpV4dCZLPDljRRdwffg=
+
+Name: assets/bundles/uiprefabs_legion_legioninformationstationsubview4
+ .unity3d
+SHA1-Digest: KVqKpOnml4qytrrBTCAi2LpB0RE=
+
+Name: assets/bundles/uiprefabs_userguide_userguidecgpanel.unity3d
+SHA1-Digest: 4G/DOnWCa0b1sunN+CnQdZgqlHk=
+
+Name: assets/bundles/uiprefabs_login_ysdkloginpanel.unity3d
+SHA1-Digest: CPama9duGZfrTpuGkKCs9HVmTfU=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenhundredfighting
+ subview3.unity3d
+SHA1-Digest: iFzaN0GR3MXP+9iQgQb3d2wKb2Y=
+
+Name: assets/bundles/uiprefabs_reward_rewardview.unity3d
+SHA1-Digest: MIHfAp3AuVFJRhVHIUPevJJmNcY=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.log.apk
+SHA1-Digest: FB1NIESvO81IJo5U4BvRiY6rYRQ=
+
+Name: assets/bundles/uiprefabs_bag_bagusemanypanel.unity3d
+SHA1-Digest: lOMWuXfFY1os42+EDxZVncun9Hw=
+
+Name: assets/bundles/uiprefabs_main_mainactivitycentersubview2.unity3d
+SHA1-Digest: 0xsZ+yiKPUrIbq4ov28LHw1ezmw=
+
+Name: assets/bundles/uiprefabs_army_armybattledetailview.unity3d
+SHA1-Digest: pNgQwHzG39dHYFrK6UNl8zLFGUQ=
+
+Name: assets/bundles/uiprefabs_main_mainbuildingview.unity3d
+SHA1-Digest: Aze16B5wE4hKjI28PywwXkc8VDM=
+
+Name: assets/bundles/uiprefabs_activity_activityeverydayrechargeview.u
+ nity3d
+SHA1-Digest: qBKR4p/z58vdRj/BKE62hPYdtbs=
+
+Name: assets/bundles/uiprefabs_quest_questview.unity3d
+SHA1-Digest: 04udCxMvbY7WmSRuYxaozM1B87M=
+
+Name: assets/bundles/heros_ship_10027_ship_10027.unity3d
+SHA1-Digest: 3comFBPzHtxdKOWAd5SVIAwYvLs=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerheadview.unity3d
+SHA1-Digest: D7MO+eLL6CWedIJZTmBsozejcb4=
+
+Name: assets/bundles/audios_a001_04.unity3d
+SHA1-Digest: l4bwyURSpK66i+fY6ryYDSVWeN8=
+
+Name: assets/pb/upEffectRate.pb
+SHA1-Digest: 41nLGooTkR2dq7b2QzjZo3hKLks=
+
+Name: assets/bundles/audios_u_021.unity3d
+SHA1-Digest: XR8Lq+gWq7jfhSrAqnIxdoDLb7k=
+
+Name: assets/bundles/uiprefabs_legionreswar_legionreswarmap.unity3d
+SHA1-Digest: 3jnioAWYYs7yY6Jz7K29WcZhlJY=
+
+Name: assets/bundles/npcs_shangchuan01_shangchuan01.unity3d
+SHA1-Digest: 8vFRgDrF9b7tpDzXjdORXWQXRsY=
+
+Name: assets/bundles/uiprefabs_equip_equipmutilselectpanel.unity3d
+SHA1-Digest: WN4KG/i7F8qychmerYFWKDNdG9c=
+
+Name: assets/bundles/uiprefabs_activity_activitysignsubview3.unity3d
+SHA1-Digest: qQk2jPnY54pFq7So1HLhN3lAi7Y=
+
+Name: assets/bundles/shaders_art_shaders01_mymobilestroningcut_blend_u
+ v.unity3d
+SHA1-Digest: nBT3/teepCQT58tx5/BO929P5hE=
+
+Name: assets/pb/armyScience.pb
+SHA1-Digest: iX0r3w7S7FpFJ6PzrNcgQwet774=
+
+Name: assets/ucgamesdk/lib/mips/lib_ucsdk_softlink.so
+SHA1-Digest: Qtor6d9cfaPFTyvTEI/c9SOybic=
+
+Name: assets/bundles/buildings_woodpointslv3.unity3d
+SHA1-Digest: W+lwbF24PEWk2G2dynynSIzusTc=
+
+Name: assets/bundles/uiprefabs_legion_legioncallwarresultlistview.unit
+ y3d
+SHA1-Digest: HcK18oDSx0Ufgxd9MnEXO3hniHI=
+
+Name: assets/bundles/uiprefabs_legion_legioninfosubview3.unity3d
+SHA1-Digest: mpfAmHeE+oo5QFMcKHUE6y7LtSo=
+
+Name: assets/bundles/uiprefabs_legion_legioninfojobeditpanel.unity3d
+SHA1-Digest: 3cOA4dIWyHicrjseRSDDtwa6ijw=
+
+Name: assets/bundles/uiprefabs_quest_questworldpanel.unity3d
+SHA1-Digest: HGjFg72Piyek3sI7A+ea9HltJmY=
+
+Name: assets/bundles/uiprefabs_legionreswar_legionreswarhundredfightin
+ gview.unity3d
+SHA1-Digest: RTJ0OlWxdbZkDUcMM7Bt2TwQvgo=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenfightrecordsubv
+ iew2.unity3d
+SHA1-Digest: 9I7qTLXQoVuGQ80MeHlY9IptVtY=
+
+Name: assets/bundles/uiprefabs_login_createrolepanel.unity3d
+SHA1-Digest: kbqundPTppN9fgV9Zb1gRhfTqLc=
+
+Name: assets/pb/equip.pb
+SHA1-Digest: vF7xhwG8zLKzol7yx7a0/GQN94E=
+
+Name: assets/bundles/uiprefabs_main_mainvipendpanel.unity3d
+SHA1-Digest: bBzGaBxOPscu/LW6/c/fCT02C2A=
+
+Name: assets/bundles/heros_ship_10007_ship_10007.unity3d
+SHA1-Digest: soqZhD3JWt3mVqlaoSTw607tFLw=
+
+Name: assets/bundles/ui_seekcard_seekcard.unity3d
+SHA1-Digest: rW8ejpNeuPnwP3e2IfHFGytzJX0=
+
+Name: res/drawable/app_icon.png
+SHA1-Digest: OvKz4H6BK5/jlLXtGYAB5wraXew=
+
+Name: assets/bundles/uiprefabs_legion_legioninfojoinconditioneditpanel
+ .unity3d
+SHA1-Digest: t//4Zw/jEPBNnqPToTui4opr064=
+
+Name: assets/bundles/uiprefabs_bag_bagusehornpanel.unity3d
+SHA1-Digest: 3UatanB7y3MWbDoedTzvClROqEI=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenfengbeiview.uni
+ ty3d
+SHA1-Digest: gKM5JgqpEvIf/hFy58AEJSuY2Cg=
+
+Name: assets/bin/Data/49c3e8e0ecb0d29449ff7280e22765a0
+SHA1-Digest: bIUZfekSjoyVfSG3YffISb+HhQA=
+
+Name: assets/bundles/uiprefabs_fitting_fittingbagsubview3.unity3d
+SHA1-Digest: Pr4nMGrITt9ype/+ihxjXkgVQzc=
+
+Name: assets/bundles/audios_u_020.unity3d
+SHA1-Digest: /4gQH8HQAuStWnJ8vd+277uQzpI=
+
+Name: assets/bundles/uiprefabs_quest_questachievementpanel.unity3d
+SHA1-Digest: RVISubsHtvFJtpVY/EejMvZ4Csc=
+
+Name: assets/pb/building.pb
+SHA1-Digest: u5PN4rYCU1c09z1VfgVMcJRzVmc=
+
+Name: assets/bundles/uiprefabs_fitting_fittingdebrisdetailpanel.unity3
+ d
+SHA1-Digest: VSG8fpkxPRr+8myiHHgXmONjbTs=
+
+Name: assets/bundles/uiprefabs_playerinfo_playergroupviewsubview1.unit
+ y3d
+SHA1-Digest: fWna64urFo4d/2YfyVwp6Qbycpo=
+
+Name: assets/bundles/uiprefabs_legion_legioninformationstationsubview1
+ .unity3d
+SHA1-Digest: 61GFkfIE6kuj610UQUTb5sSEw4Q=
+
+Name: assets/pb/collect.pb
+SHA1-Digest: GQjW76x9NAimmjYyJK1rCyXcpfM=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenbarcraftpostvie
+ w.unity3d
+SHA1-Digest: fJWbHpgarHOBwHtV83mC3EP+tVM=
+
+Name: assets/bundles/uiprefabs_main_mainobjredpoint.unity3d
+SHA1-Digest: guGDNYSxMn6nojP3VPDVEk/xfu8=
+
+Name: assets/bundles/uiprefabs_world_worldcultureview.unity3d
+SHA1-Digest: ES25BTI+9fNb6um352TfUk7rLts=
+
+Name: assets/bundles/audios_u_005.unity3d
+SHA1-Digest: nqevKA93StY5/Jf7xlPMgLRxu80=
+
+Name: assets/bundles/audios_u_038.unity3d
+SHA1-Digest: RIefd+J9aH6egscT2jdAOPFlMNw=
+
+Name: assets/bundles/audios_a001_01.unity3d
+SHA1-Digest: 3lUVwkSYrou1wVRpQs0ZwxJ18gc=
+
+Name: assets/bundles/uiprefabs_world_lookmyselfpanel.unity3d
+SHA1-Digest: k209l5zxSAHVIBuFOeeT3XEhgW8=
+
+Name: assets/bundles/audios_u_028.unity3d
+SHA1-Digest: hpA55X7JYiFHvvNVYaX4TQfcnR8=
+
+Name: assets/sbf
+SHA1-Digest: Sl2m613Vj60wDiQxY3CRj2LZwa0=
+
+Name: assets/bundles/heros_ship_10012_ship_10012.unity3d
+SHA1-Digest: L8xoL/uHXqfYzHUKsiJNWBDEuPc=
+
+Name: assets/bundles/buildings_ruinsbanner.unity3d
+SHA1-Digest: evsIkE8BwvV0OgOr4vDK4wRuxKk=
+
+Name: assets/bundles/uiprefabs_broadcast_scrollbroadcast.unity3d
+SHA1-Digest: 9GFevXtmcBmZhZ5Lh+TelbXdMaw=
+
+Name: assets/pb/fitting.pb
+SHA1-Digest: GYfy4NUDY9UUWRaTTK9xZoLc2hQ=
+
+Name: assets/pb/skill.pb
+SHA1-Digest: gK6WMmgzHPZ1EGTtXf/0SzzIY2E=
+
+Name: assets/bundles/uiprefabs_fitting_fittingbagsubview2.unity3d
+SHA1-Digest: x+m/jVi9gFLRjIoZgiWmg+pu99w=
+
+Name: assets/bundles/uiprefabs_equip_equipsubview1.unity3d
+SHA1-Digest: JTek97JN3qsrj2kTklTlA9f9UdA=
+
+Name: assets/bundles/heros_ship_10025_ship_10025.unity3d
+SHA1-Digest: FfbtVxttKIZWR3tMfA2XE1vZj3A=
+
+Name: assets/bundles/uiprefabs_arena_arenarankrewardpanel.unity3d
+SHA1-Digest: JGPJnOthAFaMpC5bFrO+t6BlH58=
+
+Name: assets/bundles/heros_ship_10030_ship_10030.unity3d
+SHA1-Digest: 1kmuB6R/g/sJdkGoc6Wh9BzULGs=
+
+Name: assets/bundles/maps_textures_playersstrongholdlv2.unity3d
+SHA1-Digest: cGX1EWJb4AUXPSLEtHtfuWdrlz8=
+
+Name: assets/bundles/uiprefabs_common_gamedespanel.unity3d
+SHA1-Digest: pUBu7bclE2G+3EaysPxj3D4wnQs=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerleveluppanel.unity3d
+SHA1-Digest: pFoSKLDP8/Ix4q2JLqjTIbJBM9s=
+
+Name: assets/bundles/uiprefabs_army_armydefendsubview2.unity3d
+SHA1-Digest: r7l5jk1U0yArC7XMFFdsbfYp52c=
+
+Name: assets/bundles/uiprefabs_playerinfo_playergroupview.unity3d
+SHA1-Digest: AjrVLtt7EedeYo0n8dgtAsP+Src=
+
+Name: assets/bundles/heros_animations_ship_10009_siwang.unity3d
+SHA1-Digest: IrlJWkkc06z4POPcg/O4f2gX8KI=
+
+Name: assets/bundles/audios_u_039.unity3d
+SHA1-Digest: PDywCMmVyJyghIf2etFfs1LDBx4=
+
+Name: assets/bundles/uiprefabs_legionreswar_legionreswarrankviewsubvie
+ w2.unity3d
+SHA1-Digest: EHUY+cvelEjbUUpT8MTWRFB2Un0=
+
+Name: assets/bundles/uiprefabs_world_worldvalidatepanel.unity3d
+SHA1-Digest: JSWtyJjY5K1+lkDsfG20YCywVSs=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenlookrewardpanel
+ .unity3d
+SHA1-Digest: BIgXVQAhNoqigDTgNmC1tZxRzsw=
+
+Name: assets/bundles/uiprefabs_legion_legioncallwarview.unity3d
+SHA1-Digest: sEgG3muxoZ/7zMzaPqkYySWKD48=
+
+Name: assets/bundles/uiprefabs_world_worldmap.unity3d
+SHA1-Digest: joj1cZzV9Tt9oRGsWsw/TgPBGYA=
+
+Name: assets/bundles/ui_fuben_fuben.unity3d
+SHA1-Digest: HvQ6t2VRDR5YqyqCozvFloMBZzc=
+
+Name: assets/bundles/uiprefabs_sciencemuseum_sciencemuseumview.unity3d
+SHA1-Digest: O4hIXV2JsJiBZtjiCkOw4vbrDf8=
+
+Name: assets/ucgamesdk/lib/x86/list
+SHA1-Digest: n7S3SZ/gvqxWi2c8ojUTxtd4Ti0=
+
+Name: assets/ucgamesdk/lib/arm64-v8a/lib_ucsdk_xcrypt.so
+SHA1-Digest: 30GzrYM/iIIyWXmIK0JO3XQBwZ8=
+
+Name: assets/bundles/heros_animations_ship_10002_shouji.unity3d
+SHA1-Digest: tLYLD3H9DLvHdKhzUOzF8r10G/0=
+
+Name: assets/bundles/npcs_xianbing_xianbing.unity3d
+SHA1-Digest: JqTNnjyy7j67FcyKqX8thR8hfLk=
+
+Name: assets/bundles/uiprefabs_activity_activityresrankview.unity3d
+SHA1-Digest: zvtZGXLv+wRdl1SByfdJdGmB1Qs=
+
+Name: assets/bundles/uiprefabs_social_socialsubview1.unity3d
+SHA1-Digest: 1InZa1L9NY9jb3rR4nBHrfRpG2k=
+
+Name: assets/bundles/audios_u_006.unity3d
+SHA1-Digest: kOS1pBJ2vJvPe1PJAEn7ZiHu5DE=
+
+Name: assets/bundles/uiprefabs_main_mainbuildingselectbuildview.unity3
+ d
+SHA1-Digest: hR7Ormsvi4Oe0XSd66Q9mhn7jMY=
+
+Name: assets/bundles/npcs_haiou_haiou.unity3d
+SHA1-Digest: JRZtBk7QiUDjDdG+B6l+ARcW7kM=
+
+Name: assets/bundles/uiprefabs_chat_chatview.unity3d
+SHA1-Digest: yGC3OK1eVV+ElLd821Kd+qPtzps=
+
+Name: assets/bundles/audios_a001_06.unity3d
+SHA1-Digest: I4xSROxS6LppwOlLjTsOhBZxCaQ=
+
+Name: assets/bundles/heros_animations_ship_10008_shouji.unity3d
+SHA1-Digest: 0kJnLtVbVPIy+ELCveUAg16OIKg=
+
+Name: assets/ucgamesdk/lib/arm64-v8a/list
+SHA1-Digest: P/mqfO8emk1XCnPtmeCC2gPjE/s=
+
+Name: assets/ucgamesdk/lib/mips/lib_ucsdk_xcrypt.so
+SHA1-Digest: Z2z8L4UyI6UcfhAPgV+CPD1wWvU=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenserverfightview
+ .unity3d
+SHA1-Digest: whi/qFNVwvY0IHbh2uy1ISFOycY=
+
+Name: assets/bundles/uiprefabs_common_commongametips.unity3d
+SHA1-Digest: 2Rx+k5kwERiBCHy87ga1awhHW/8=
+
+Name: assets/bundles/audios_dub_5001.unity3d
+SHA1-Digest: TsSfer6tQagk3grEo92bwg/GcN4=
+
+Name: assets/bundles/bundles
+SHA1-Digest: t+/5I4CtcuEGpF+s9al/zTB5RFQ=
+
+Name: assets/bundles/uiprefabs_legion_legioninfosubview5.unity3d
+SHA1-Digest: gWdbnHV3pAkr4VTRwJl+yQz5QSM=
+
+Name: assets/bundles/uiprefabs_equip_equiplockprunepanel.unity3d
+SHA1-Digest: Jtw3tmK7EPZZf6O3sSpEXpQXMvs=
+
+Name: assets/bundles/uiprefabs_fuben_fubenadventurelevelpanel.unity3d
+SHA1-Digest: Omn+xyULMMEknyHYN1lxqMbI2hk=
+
+Name: assets/bin/Data/splash.png
+SHA1-Digest: RC5tMu50sjoi9SWpz3Wq8abt7m0=
+
+Name: assets/bundles/uiprefabs_military_generaldetailpanel.unity3d
+SHA1-Digest: +QBvPKCW7PSbI93D+ZrhZn4AsoA=
+
+Name: assets/bundles/uiprefabs_login_serverpanel.unity3d
+SHA1-Digest: pcVvhJouElb3/uLRHVEGaKwokPc=
+
+Name: assets/bundles/ui_chat_chat.unity3d
+SHA1-Digest: bjEmcms47KYXIR0L66sYyBDbqJw=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysstoreview.unity3
+ d
+SHA1-Digest: s3zn4KBCIbPqaxuxZVvNZMRKiVI=
+
+Name: assets/bundles/uiprefabs_legion_legionlooklegioninfopanel.unity3
+ d
+SHA1-Digest: zxNBArRjR1M6NxahlnaG/WSVQwo=
+
+Name: assets/bundles/uiprefabs_main_mainbuildingspeeduppanel.unity3d
+SHA1-Digest: K5l4hOZi/9fBuhJgnWloLXq9jF4=
+
+Name: assets/bundles/ui_fight_fight.unity3d
+SHA1-Digest: Ozk9zhdJAZI4TWbS2Ib4PqwCjTM=
+
+Name: assets/pb/Cmd.pb
+SHA1-Digest: R36cbWLWVIfsnmDHNh6tqmYsicg=
+
+Name: assets/pb/group.pb
+SHA1-Digest: XpLlVdWZemymdGSjAn6ucgoJkKQ=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: MKkwgwC0YtqLCLoJO4BKfOdLqU0=
+
+Name: assets/bundles/npcs_zhongniancunfu_zhongniancunfu.unity3d
+SHA1-Digest: Wx1NdA2hCIQNWRN6SG3gjqNg94I=
+
+Name: assets/bundles/audios_u_012.unity3d
+SHA1-Digest: 1W+zARyDJO23QEITZvOOA76023k=
+
+Name: assets/bundles/uiprefabs_email_emailsubview1.unity3d
+SHA1-Digest: ptJGwXi5mSQBz1nJd+XpZPD0hb8=
+
+Name: assets/bundles/audios_quanti_miss.unity3d
+SHA1-Digest: XV3WyM5e2P5uHFMbIDFjwabvAAA=
+
+Name: assets/bundles/uiprefabs_main_mainpirateattackcityview.unity3d
+SHA1-Digest: IoZuF/GGuV0Z2SRu0iuV8qRsgeI=
+
+Name: assets/bundles/heros_ship_10009_ship_10009.unity3d
+SHA1-Digest: PPHaZfmtyguMURShp2UH3xxMipM=
+
+Name: assets/bundles/uiprefabs_login_maincanvas.unity3d
+SHA1-Digest: 6P72xGIHT78zsMnN3wX+VGDgJlE=
+
+Name: assets/bundles/uiprefabs_activity_activityexploreview.unity3d
+SHA1-Digest: L6Pgwu4iDizL1kLa9AcxiGK4QPs=
+
+Name: assets/bundles/audios_quanti.unity3d
+SHA1-Digest: VentZrVhquUI+iPLRWAjg2VgHIQ=
+
+Name: assets/bundles/uiprefabs_common_commonobjemptydatatip.unity3d
+SHA1-Digest: ogHVjSYvin5xZ7y7Dakw8xd+IjI=
+
+Name: assets/pb/map.pb
+SHA1-Digest: 4sbDjzKE/BewNFDQ342jaf5bgPc=
+
+Name: assets/bundles/uiprefabs_quest_questactiverewardpanel.unity3d
+SHA1-Digest: FWnc0EM/8zzK2+1bk2YF6H/rWP4=
+
+Name: assets/bin/Data/Managed/Debugger.dll
+SHA1-Digest: QR4Cw47t8in8r5T6eudwQg9hFnA=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysbuypanel.unity3d
+SHA1-Digest: eo+0aaEiuPWc0bX7UhTtOdDXUgQ=
+
+Name: assets/bundles/uiprefabs_fuben_fubenadventurerecordpanel.unity3d
+SHA1-Digest: UBzXtO/d7/pVehTHrjdLKZqiSnQ=
+
+Name: assets/bundles/uiprefabs_activity_activitysevendayview.unity3d
+SHA1-Digest: muMJXpDORezS+b8G6NFBRWeEtZQ=
+
+Name: assets/bundles/uiprefabs_legion_legionlookmemberpanel.unity3d
+SHA1-Digest: 3fAum77f27pcCHV8p9lDEw7hVXs=
+
+Name: assets/bundles/shaders_art_shaders01_wfx_s_particle_addsoft_a8.u
+ nity3d
+SHA1-Digest: h/HevtQhq0r1uvaUWfsXZxfe/RE=
+
+Name: assets/bundles/npcs_shadow.unity3d
+SHA1-Digest: nguEZGQxvCE2xQH0YquEb//MEv4=
+
+Name: assets/bundles/uiprefabs_legion_legionlelfareactiverankpanel.uni
+ ty3d
+SHA1-Digest: 3ZYCLlUDGp6R/NVyll2YgHhfUyE=
+
+Name: assets/bundles/uiprefabs_world_worldlevelrewardpanel.unity3d
+SHA1-Digest: XYVK4IfwHqp2cbpvAvcJnpYl7IE=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysformationview.un
+ ity3d
+SHA1-Digest: hq2ST70wkbLXk+LIVTKiybXwwCs=
+
+Name: assets/bundles/uiprefabs_warfactory_warfactoryview.unity3d
+SHA1-Digest: 3KsGkngivRVk5SBnnZsQJ+zBQMs=
+
+Name: assets/bundles/ui_common_common_btn04_hui.unity3d
+SHA1-Digest: xdEzV78C6KPflGRPhVj+NfU2uAI=
+
+Name: assets/bundles/heros_ship_10003_ship_10003.unity3d
+SHA1-Digest: NXoVlzUCWkog1XKiDzwdWWhxM40=
+
+Name: assets/bundles/audios_dub_5002.unity3d
+SHA1-Digest: s93CMrSfrt05kAYHr06CeP6s3CM=
+
+Name: assets/bundles/uiprefabs_redpacket_redpacketusepanel.unity3d
+SHA1-Digest: 1Q0a2aLQ+inPVcJeWrCnIW3rIl0=
+
+Name: assets/bundles/heros_animations_ship_10034_siwang.unity3d
+SHA1-Digest: Krh8kBzl7JKtsrc1fNqbj9q3nmc=
+
+Name: assets/bundles/heros_materials_ship_01_light.unity3d
+SHA1-Digest: NkUixS2HCKRq9lNi7WiFHvoLHuo=
+
+Name: assets/bundles/maps_materials_playersstronghold_02.unity3d
+SHA1-Digest: QEOckYSCGvth/h/3V4fvdRZQk7s=
+
+Name: assets/bundles/uiprefabs_fightguide_fightguidepanel.unity3d
+SHA1-Digest: pXhPmKqi/yUWfQGsX6UYniur5U4=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA1-Digest: jthl2WsjzNeOuR7q37TwHyAxzZc=
+
+Name: assets/bundles/uiprefabs_bag_bagsubview.unity3d
+SHA1-Digest: ldwaLFQzXhHBcDjC6cPRw2WEe7k=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssyssumpricepanel.un
+ ity3d
+SHA1-Digest: zhEjxxa36Qxs0c89mUUiJN0TC78=
+
+Name: assets/bundles/uiprefabs_military_generaladvancesuccesspanel.uni
+ ty3d
+SHA1-Digest: agi7W8Rc6jT+RECYIhKeCc14CdA=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerinfoprestigepanel.unit
+ y3d
+SHA1-Digest: FyZ8MUN3LUBTfsAtWP6fpyV274Q=
+
+Name: assets/bundles/audios_sound_basebeginning_buildingup.unity3d
+SHA1-Digest: MJkmXSV/cDgvJRPWTgFEMzyz8b4=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA1-Digest: aNMXobSOlwS/+9Bz8nYCFup6l1w=
+
+Name: assets/pb/science.pb
+SHA1-Digest: u034U5CeA3D9OgxQBwAm9/s2M8E=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysconversionpanel.
+ unity3d
+SHA1-Digest: s5tE5pkUCSeDkf4b+/o3k5qjNzA=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenbarcraftskillpa
+ nel.unity3d
+SHA1-Digest: JvunAmIiSX3aB4mFADwBfwUJi1g=
+
+Name: assets/bundles/uiprefabs_activity_activitylotteryinfoview.unity3
+ d
+SHA1-Digest: wgirUN2VpifjhRcoN1eQ4s/5rGI=
+
+Name: assets/bundles/ui_main_main.unity3d
+SHA1-Digest: QK/EiJJtEnx+WQyg6cJtsx3ppLI=
+
+Name: assets/bundles/audios_dub_1005.unity3d
+SHA1-Digest: Gy2KlL0+HqMK881iBT0SrJpmXok=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubensubview1.unity3
+ d
+SHA1-Digest: V2/z14eF7BUodoTguM8n94qI1M4=
+
+Name: assets/bundles/heros_animations_ship_10019_siwang.unity3d
+SHA1-Digest: pcgwCiDpCB4SXV5fyO938MytZWo=
+
+Name: assets/bundles/uiprefabs_legion_legioncallwarlooklegioninfopanel
+ .unity3d
+SHA1-Digest: 4K3LQoLPavyAajdh2/Evq+HS1/w=
+
+Name: assets/bundles/uiprefabs_main_mainbuildingspeedupdetailpanel.uni
+ ty3d
+SHA1-Digest: aB7DdBHCa4mBB5IfGWL+E7TiFDM=
+
+Name: assets/bundles/uiprefabs_arena_arenabuildingtitle.unity3d
+SHA1-Digest: WZjMxLudAVNwDvDCSUrKYrFr++c=
+
+Name: assets/bundles/uiprefabs_armyscience_armysciencesubview2.unity3d
+SHA1-Digest: wRy3+Zkxb6cnWn5A1koIX+QwEA0=
+
+Name: assets/bundles/uiprefabs_sciencemuseum_sciencemuseumsubview2.uni
+ ty3d
+SHA1-Digest: XaM245S8cyA4CVcN5L8lUEfTr8Q=
+
+Name: assets/bundles/uiprefabs_military_generalguidepanel.unity3d
+SHA1-Digest: CHAC4lB2dj8sFlTYGzq+XoWoLIo=
+
+Name: assets/pb/friend.pb
+SHA1-Digest: AZwRlkiezVmR2/P54tlEjTAp9so=
+
+Name: assets/bundles/uiprefabs_legion_legioncreateorjionsubview2.unity
+ 3d
+SHA1-Digest: iFbl86LVUsKL06dJsNA1OB2rbP4=
+
+Name: assets/bundles/uiprefabs_activity_activityplayerlvlupview.unity3
+ d
+SHA1-Digest: uP2TlVNiRRV/Zep9IAA6KyPzqQ0=
+
+Name: assets/bundles/heros_animations_ship_10015_xingzou.unity3d
+SHA1-Digest: xjklMue50aMajw31/e6gOGUH9UA=
+
+Name: assets/bundles/uiprefabs_legion_legionscienceuppanel.unity3d
+SHA1-Digest: iJ+P/uRFP0+oIzkJ/zd1WY08Jc8=
+
+Name: assets/ucgamesdk/lib/armeabi-v7a/lib_ucsdk_patch.so
+SHA1-Digest: aINKFbRFGccO4114aKDt0g1CVB0=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerinfosubview2.unity3d
+SHA1-Digest: 0FFhjFSxhTmWxPHFHJI5vhQsQt8=
+
+Name: assets/bundles/ui_bg_guide_image04.unity3d
+SHA1-Digest: o576AVnscZ0x4UGYscBACqmXUZA=
+
+Name: assets/bundles/uiprefabs_common_battleshipinfo_battleshipsharepa
+ nel.unity3d
+SHA1-Digest: PTHQwe1LdW57v6yCuQxuEqOD9Oo=
+
+Name: assets/bundles/heros_animations_ship_10021_gongji.unity3d
+SHA1-Digest: +meMjaUmBxU4/EtZ2918UCcd6Tc=
+
+Name: assets/bundles/uiprefabs_shop_shopview.unity3d
+SHA1-Digest: uJe193qERTe6yRKdiwMyA7ijedk=
+
+Name: assets/bundles/ui_item_item.unity3d
+SHA1-Digest: rLWA8OK7W4B5y/HqHaz1YwpoPYU=
+
+Name: assets/bundles/uiprefabs_activity_activityexchangeview.unity3d
+SHA1-Digest: vUzblpRmHoAT+hTSn0hyqV7tj/k=
+
+Name: assets/ucgamesdk/lib/arm64-v8a/lib_ucsdk_softlink.so
+SHA1-Digest: q5BjTorYNtI2yoYhRL6eoA9iwVI=
+
+Name: assets/bundles/heros_ship_10035_ship_10035.unity3d
+SHA1-Digest: YO/jILSqNihHPuoaQ/h+I3wSqZU=
+
+Name: assets/pb/tank.pb
+SHA1-Digest: x+essLj7JRGEhfeosTm1x51hEGw=
+
+Name: assets/bundles/maps_textures_smallwaves.unity3d
+SHA1-Digest: GQTzmpF1VqAG2Iq5HMC7SHpc9Bk=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubensignuplegionpan
+ el.unity3d
+SHA1-Digest: 1HFgsBUOlUa6xwkW+EfoGUXC7uA=
+
+Name: assets/bundles/uiprefabs_fitting_fittingselectpanel.unity3d
+SHA1-Digest: otSr3NZgkiBhYC18CNNnpfZnvUM=
+
+Name: assets/bundles/fonts_droidsansfallback.unity3d
+SHA1-Digest: q9oC8JKZ3W5HooENlrdUgTo+r9Y=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysrankviewsubview1
+ .unity3d
+SHA1-Digest: MRtuzBdpjv/Wo/JhOMtB21EkhVM=
+
+Name: assets/bundles/heros_ship_10034_ship_10034.unity3d
+SHA1-Digest: wCid0rwERrukdmJ9A8XqJRv41jY=
+
+Name: assets/bundles/heros_animations_ship_10012_siwang.unity3d
+SHA1-Digest: 5Beig7jf997lISBn+jCPtfiDNmc=
+
+Name: assets/bundles/uiprefabs_playerinfo_playergroupviewsubview2.unit
+ y3d
+SHA1-Digest: YsP00nQWi/h3beMTD9gOb9FVBMY=
+
+Name: assets/bundles/uiprefabs_guidelinesreward_guidelinesrewardview.u
+ nity3d
+SHA1-Digest: 2sRJu5hCoFdz7V8enLGOZYrnQVc=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenparticipationpa
+ nel.unity3d
+SHA1-Digest: BRvkCjhK6uKG8hHz4AGe3odTzWQ=
+
+Name: assets/bundles/uiprefabs_activity_activitylogindaypanel.unity3d
+SHA1-Digest: 7H3JgTJ3UdH6IwbkflPfDqLUt6w=
+
+Name: assets/bundles/uiprefabs_fitting_fittingdetailpanel.unity3d
+SHA1-Digest: 6gGs+MNBj8MLA0OoTuUgiLLhPtE=
+
+Name: assets/bundles/maps_oceanplane_ziyuanlv03.unity3d
+SHA1-Digest: 0zDw2t6CwZpvOr7jLdosnoKNYds=
+
+Name: assets/bundles/uiprefabs_legion_legioncreateorjionview.unity3d
+SHA1-Digest: YXvJdJe/EZb71+tB9Ph6rS8PcV8=
+
+Name: assets/bundles/uiprefabs_armyscience_armysciencesetsciencepanel.
+ unity3d
+SHA1-Digest: caB6Cj5uJO8iv7b5d0c077HGx70=
+
+Name: assets/bundles/uiprefabs_military_generalrecruitpanel.unity3d
+SHA1-Digest: m7gWiulkHAo2JMC5KrB3haMQ/Q8=
+
+Name: assets/bundles/audios_music_battle_background.unity3d
+SHA1-Digest: T7BuHDcMpHdt61fad5Xpj5OLfFM=
+
+Name: assets/bundles/uiprefabs_activity_activityrecharglotteryview.uni
+ ty3d
+SHA1-Digest: NBfufjYZqexCnrPiDsNp33pb5IM=
+
+Name: assets/bundles/audios_d_p001_02.unity3d
+SHA1-Digest: gEi/oc8GlkUb6KnJ/HiEBKCAPPM=
+
+Name: assets/bundles/uiprefabs_fitting_fittingview.unity3d
+SHA1-Digest: Jpehh8Lp1Sptmyz8INrfqjdZGE0=
+
+Name: assets/bundles/uiprefabs_bag_bagselectitempanel.unity3d
+SHA1-Digest: 17y99wUSkm6doAwaiCKzPHij8Ss=
+
+Name: res/anim/dhh_loading.xml
+SHA1-Digest: 8fH4SkPFspvQeIuv7jLOl1QlOlE=
+
+Name: assets/bundles/uiprefabs_legion_legionhelpview.unity3d
+SHA1-Digest: H0k5oMCVHy6dSadihs8W7fKMZxE=
+
+Name: assets/bundles/uiprefabs_quest_questsubview4.unity3d
+SHA1-Digest: xqoprgU+GR3zxv8SVaq3ufFS79U=
+
+Name: assets/pb/pk.pb
+SHA1-Digest: UBmpMimDw0Zl+KH2vvI4hBes6ZE=
+
+Name: assets/bundles/uiprefabs_military_militaryview.unity3d
+SHA1-Digest: E8DoxDIAcnDuc0OI5nZ5llAjdgk=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerheadsubview2.unity3d
+SHA1-Digest: YbwKSm8y53vWmiyWRV/BNC07wfU=
+
+Name: assets/bundles/ui_general1_general1.unity3d
+SHA1-Digest: R/1KBT6w57Xxse8Fp7V54rvswSE=
+
+Name: assets/bundles/maps_textures_m_sky_blue_mraky.unity3d
+SHA1-Digest: c1FsGLlKMHHDZfcxykk5spHHfpQ=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysconversionsubvie
+ w2.unity3d
+SHA1-Digest: X5jzl65Fu4uGChl4ydbGcwUINec=
+
+Name: assets/bundles/maps_textures_playersstrongholdlv1_bake.unity3d
+SHA1-Digest: rUNmRAPy/Aa0k6joQ77U3DJ5cbc=
+
+Name: assets/bundles/uiprefabs_activity_activityexploreonerewardpanel.
+ unity3d
+SHA1-Digest: LZf9838Iqpc6CZXE3QmnsgjCNlU=
+
+Name: assets/bundles/uiprefabs_activity_activityrankcheckpanel.unity3d
+SHA1-Digest: kS4xFvX+LlDe1PW4Z5DZBF7PdPM=
+
+Name: assets/bundles/uiprefabs_main_mainbuildinginfopanel.unity3d
+SHA1-Digest: uNHCU0GYHsu/52OhOwuFs3XOHoc=
+
+Name: assets/bundles/uiprefabs_legion_legioninfosubview4.unity3d
+SHA1-Digest: PoeTWjbAmm7jIMlBEUpRMEQ0+TI=
+
+Name: assets/bundles/heros_animations_ship_10011_gongji.unity3d
+SHA1-Digest: ffEdO7eGckFa8zAqDj1ooiws7ek=
+
+Name: assets/bundles/effects_shizipiane_101.unity3d
+SHA1-Digest: 1WvEzBWBdakZhxuJrT+B+UC2vLE=
+
+Name: assets/bundles/uiprefabs_activity_activitycombineshipview.unity3
+ d
+SHA1-Digest: /LNaNXgaqGKafwfsSg+FQYFfXE0=
+
+Name: assets/bin/Data/sharedassets0.assets
+SHA1-Digest: D3kNUjMt40A5xRzqNoFm/G3I3fc=
+
+Name: assets/bundles/uiprefabs_fight_fightfailpanel.unity3d
+SHA1-Digest: mSuxIVrdLmq9cZzf46nuYVzAxng=
+
+Name: assets/bundles/uiprefabs_legion_legionlelfaresubview3.unity3d
+SHA1-Digest: /lsV1CMY7lGDRC6gmXGN3+ir8qc=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerinfoview.unity3d
+SHA1-Digest: IgqUVWmc0dj06S6pxEd/s5him4k=
+
+Name: assets/bundles/heros_ship_10021_ship_10021.unity3d
+SHA1-Digest: LEaJ4Y6SVqnSo9nf3F1WhUhVwsA=
+
+Name: assets/bundles/heros_animations_ship_10024_xingzou.unity3d
+SHA1-Digest: I5At5HgUbQ70cdrzaNNqx9hg2Zs=
+
+Name: assets/bin/Data/9119826e96ff3c44ca4c7e1bebf3cb9b
+SHA1-Digest: LPFoLuyJoRKUC8AARM7g9TY+O0U=
+
+Name: assets/bundles/fonts_fightfont_fightfont.unity3d
+SHA1-Digest: HkVfC6tBzn0fURKW8Pg38b+ZiKg=
+
+Name: assets/bundles/uiprefabs_activity_activityofthirtydaysview.unity
+ 3d
+SHA1-Digest: ATqbfMlri9ay3sOiXzFwzS/EHd0=
+
+Name: assets/bundles/heros_ship_10011_ship_10011.unity3d
+SHA1-Digest: nvIR55FLkezTn6/8W66pXHuKhY0=
+
+Name: assets/bundles/uiprefabs_activity_activityexplorecheckrewardpane
+ l.unity3d
+SHA1-Digest: ONnAcFQ/QUAIz097OMdsHcu1NUY=
+
+Name: assets/bundles/uiprefabs_legionreswar_legionreswarhundredfightin
+ gsubview1.unity3d
+SHA1-Digest: LubX7Up74Omh/4zLE82sPEcYxAs=
+
+Name: assets/bundles/uiprefabs_activity_activityrechargzhuangpanpanel.
+ unity3d
+SHA1-Digest: 3wTeo9s+IcQHAHxu0kkupay1XTA=
+
+Name: assets/bundles/heros_animations_ship_10023_siwang.unity3d
+SHA1-Digest: zkKYFEFo1vWiDdNleBh8Up5cDXg=
+
+Name: assets/pb/game.pb
+SHA1-Digest: v5E1u32jBEpF38Hdty0KRtZmP98=
+
+Name: assets/bundles/uiprefabs_activity_activityredeemcodeview.unity3d
+SHA1-Digest: l7YM0VaQlZ6cHq29BCjiBvSyM2o=
+
+Name: assets/ucgamesdk/lib/list
+SHA1-Digest: NKUO1RSgcfO8qzSPnYSiO4B5Nzw=
+
+Name: assets/bundles/uiprefabs_activity_activityexploreviewsubview1.un
+ ity3d
+SHA1-Digest: ML2fcGzU3a5G3BuO4tqeghFLSSQ=
+
+Name: assets/bundles/uiprefabs_world_worlddonaterankviewsubview2.unity
+ 3d
+SHA1-Digest: 4wC/oC/fTuvO6W7SHxy47/mvKAA=
+
+Name: assets/bundles/heros_ship_10008_ship_10008.unity3d
+SHA1-Digest: QyGaDPNj9pZ6SOJIInnvn1/TwQw=
+
+Name: assets/bundles/uiprefabs_chat_chatprivatechooseplayerview.unity3
+ d
+SHA1-Digest: u0bAnRZ7CGdcHRmizYZMzNjrh0c=
+
+Name: assets/bundles/uiprefabs_legionreswar_legionreswarzengyipanel.un
+ ity3d
+SHA1-Digest: lc81cSjGA5oTAR823kTzbWwzDSc=
+
+Name: assets/bundles/audios_sound_drawcard_9.unity3d
+SHA1-Digest: uhD6kgANqMjkX0lOA2Qbu4Fuckc=
+
+Name: assets/bundles/buildings_gunpowderpointslv3.unity3d
+SHA1-Digest: dUTgvpsfp+GhKKKbndbh/AHYM24=
+
+Name: assets/bundles/buildings_goldpointslv3.unity3d
+SHA1-Digest: xK9fy6OI0Sgthl3szgKNAPQpxvA=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll.mdb
+SHA1-Digest: 8aKcCgiMBdK/np8sGiPUmE38JWc=
+
+Name: assets/bundles/uiprefabs_activity_activitysignview.unity3d
+SHA1-Digest: /fKoD0IN9W0yXbkENJ8OYI1fGEU=
+
+Name: assets/bundles/uiprefabs_main_mainactivitycenterview.unity3d
+SHA1-Digest: oSL/vF5cTPDyBaDV2VXPOO1HmRA=
+
+Name: assets/bundles/audios_music_battle_background2.unity3d
+SHA1-Digest: r3FXq1UXTuoZqIaAk4SC0PIRSPs=
+
+Name: assets/bundles/uiprefabs_legion_legioninfosubview1.unity3d
+SHA1-Digest: MWBBYN4ArqRHVR9iS9z+xgBs9XE=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysstoresubview2.un
+ ity3d
+SHA1-Digest: FP2siCIiXzIf7/fBkGUNGuC7gpQ=
+
+Name: assets/bundles/scenes_load.unity3d
+SHA1-Digest: Vg90JxiIioDLMSSk6S6R4uttst4=
+
+Name: lib/armeabi-v7a/libxguardian.so
+SHA1-Digest: c3eHroN87MKKMEiZtamSOqC/uF8=
+
+Name: assets/bundles/audios_u_018.unity3d
+SHA1-Digest: QMOhQ84RbPfRLkrVGughy7tqDHA=
+
+Name: assets/bundles/uiprefabs_common_propdetailpanel.unity3d
+SHA1-Digest: 7LQBLh9gYJxxx+DkAxvlfdJWTNY=
+
+Name: assets/bundles/uiprefabs_fight_fightview.unity3d
+SHA1-Digest: bKnf4DAtYdYmYBQDY0zoQqXPNt4=
+
+Name: assets/ucgamesdk/lib/x86_64/lib_ucsdk_xcrypt.so
+SHA1-Digest: Cbb+FzT5JVvdTuew05iMYlpR2/8=
+
+Name: assets/bundles/uiprefabs_fitting_fittingresolverewardpanel.unity
+ 3d
+SHA1-Digest: iCIL4cseKkr/vd/9ncAJV+QXWlc=
+
+Name: res/drawable-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: yx2P24A/oKFh+pgR35/FR619yns=
+
+Name: assets/bundles/maps_materials_legionreswarmap_water.unity3d
+SHA1-Digest: yo5ncLc/q931rv9TwcMfELrHh4Q=
+
+Name: assets/bundles/uiprefabs_email_emailreportpanel.unity3d
+SHA1-Digest: 2MaH42Vk+rzRrx0oZ0W3fz8aCBc=
+
+Name: assets/bundles/ui_bg_seekcard_imgbg.unity3d
+SHA1-Digest: zAGyh0YDE9MPHgeQ7uGH3+AZTk0=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenserverfightsubv
+ iew3.unity3d
+SHA1-Digest: XKWQ3QjWZ5w6fPJRedSWQFq+HMk=
+
+Name: assets/bundles/audios_u_013.unity3d
+SHA1-Digest: 1Zch6tY+PvpImSotH6AkAVM7m+4=
+
+Name: assets/bundles/buildings_christmas_cheap.unity3d
+SHA1-Digest: EnaKURn4YcmQcp/mzzwE4qPk0hs=
+
+Name: assets/bin/Data/Managed/Mono.Security.dll
+SHA1-Digest: YVPa7zh3jqpUXwSfHta89Tsd1p0=
+
+Name: assets/bundles/maps_textures_m_sky_blue.unity3d
+SHA1-Digest: kzfzRTvFLLU3fVkRPXpKD+msXCU=
+
+Name: assets/bundles/uiprefabs_warfactory_warfactorysubview2.unity3d
+SHA1-Digest: kUh7T9eVuMkLPx3HliHJt1NWR8Y=
+
+Name: assets/bundles/uiprefabs_legion_legionsciencehallview.unity3d
+SHA1-Digest: XI4VLnBolCh6GQ3pzgJExvE2S8E=
+
+Name: assets/bundles/uiprefabs_fitting_fittingstrengthensubview2.unity
+ 3d
+SHA1-Digest: HlD5rR2Bvr9ZLlx2IdWorXR0/Sg=
+
+Name: assets/bundles/audios_u_035_1.unity3d
+SHA1-Digest: FNmfBS/hWAahkmNfCW/m9toO+Ew=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: WQCFONFcAlpsWaNESH/GhB61COc=
+
+Name: assets/bundles/uiprefabs_army_armysavetrooppanel.unity3d
+SHA1-Digest: LuTB4vU5LOI05U+4hhOC1YU8vPY=
+
+Name: assets/bundles/heros_animations_ship_10007_siwang.unity3d
+SHA1-Digest: sbgN6SV84dozVc7A/NCdHqAYfu4=
+
+Name: assets/bundles/npcs_jianzhugong_jianzhugong.unity3d
+SHA1-Digest: HzEH3HfD7d+ISFRpDWhkwfPTWSA=
+
+Name: assets/ucgamesdk/lib/x86/lib_ucsdk_softlink.so
+SHA1-Digest: yu3eb8POln6naXn9jqGQ2geheaI=
+
+Name: assets/ucgamesdk/modules/list
+SHA1-Digest: LW4a3GgayJOzmtQjV6AOY+hB1WQ=
+
+Name: assets/bundles/audios_music_battle_victory.unity3d
+SHA1-Digest: 2RLxYbJ/wJ8LQnBXjdmuyyctWJY=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysreportpanel2.uni
+ ty3d
+SHA1-Digest: aDR12LEBovVU5JVPKoYTMRYyPh8=
+
+Name: assets/bundles/uiprefabs_fuben_fubenstarrewardpanel.unity3d
+SHA1-Digest: oGiLeUTF7GmcZdGeGQZ3Jv3RnBk=
+
+Name: assets/bundles/uiprefabs_equip_equipsubview2.unity3d
+SHA1-Digest: JihAN0INakwX3z42QfflIRdm64o=
+
+Name: assets/bundles/uiprefabs_main_mainguideclickrenwuview.unity3d
+SHA1-Digest: 21htjKCqXmWsHYJyHhExCV/lJ30=
+
+Name: assets/ucgamesdk/lib/armeabi/list
+SHA1-Digest: wC05JZiMybn//nh/pUCuf+IVc8Y=
+
+Name: assets/bundles/npcs_tuzi_tuzi.unity3d
+SHA1-Digest: nszihS1x7qzAqP7UPVZBt3JqxmE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Z9U7HDaV14xba7K3135nqiAcgIQ=
+
+Name: assets/bundles/uiprefabs_military_generalcoinupgradepanel.unity3
+ d
+SHA1-Digest: +PDICu6KZRqxO4PKTe5wqXcWTPU=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenhundredfighting
+ subview1.unity3d
+SHA1-Digest: 74uNi+6DoKc5TMh98WrxIjI7KVQ=
+
+Name: assets/bundles/uiprefabs_activity_activityexploreviewsubview3.un
+ ity3d
+SHA1-Digest: PRvMBH+ktyWnAwgHgWTn2w4jyF8=
+
+Name: assets/bundles/audios_u_010.unity3d
+SHA1-Digest: 1d0hFMNRCd7GG5ekXRAN9U986ZU=
+
+Name: assets/bundles/uiprefabs_chat_chatblacklistpanel.unity3d
+SHA1-Digest: fBUEDL4D4+J1KdMYXuMJeXPlgJk=
+
+Name: assets/bundles/uiprefabs_main_mainboomvaldespanel.unity3d
+SHA1-Digest: GQHZJbtxK8PGt0UDY47R9qcE26I=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerheaduploadpanel.unity3
+ d
+SHA1-Digest: tcyVaHFOzwWyrrliqcZpT1kan7U=
+
+Name: assets/ucgamesdk/lib/arm64-v8a/lib_ucsdk_patch.so
+SHA1-Digest: ScbBoYMET9SagD5zQ5gnzQT3cKo=
+
+Name: assets/bundles/uiprefabs_activity_activitylifelimitbuypanel.unit
+ y3d
+SHA1-Digest: gmMTGelOJrp5SSBziaqh5w7EbGA=
+
+Name: classes.dex
+SHA1-Digest: 1MQxyyfFoy0qo/ImQ0xzz8tLUnQ=
+
+Name: assets/bundles/audios_sound_click_on_3.unity3d
+SHA1-Digest: DIlVpezKpkS0nVK+7Pxw2aABcv4=
+
+Name: assets/bundles/uiprefabs_email_emailreportpanel2.unity3d
+SHA1-Digest: nv1Hk4gacM3DmRy2+20ZVk6rmPQ=
+
+Name: assets/bundles/audios_u_016.unity3d
+SHA1-Digest: raz3E0Gt8Lm7kEg/O9BKtfk6VTg=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenmyfightresultpa
+ nel.unity3d
+SHA1-Digest: U9hmdU2KN89trJa8EINEIhG4YGY=
+
+Name: assets/bundles/uiprefabs_businesssys_businessmap.unity3d
+SHA1-Digest: v/mFL1Bvc8iZExiTd4aNh/ubwqE=
+
+Name: assets/bundles/uiprefabs_chat_chatgmsubview1.unity3d
+SHA1-Digest: /2ZEhIBuAlKHsRqwbaV7CMqyflI=
+
+Name: assets/bundles/uiprefabs_login_loginview.unity3d
+SHA1-Digest: tB5R13hXaVH8CJT2mw+izJtGg1M=
+
+Name: assets/bundles/audios_music_battle_failure.unity3d
+SHA1-Digest: nDr1+ty45xLlM6xI6QcXY3ZfOj8=
+
+Name: assets/bundles/heros_ship_10023_ship_10023.unity3d
+SHA1-Digest: k41ddvAIbuxYW4+8iTlARF9lEa4=
+
+Name: assets/bundles/uiprefabs_fuben_fubenadventurerewardpanel.unity3d
+SHA1-Digest: JbrZjmUG5RRk0/BC5Y6v9h0l8KE=
+
+Name: assets/bundles/uiprefabs_activity_activityrankview.unity3d
+SHA1-Digest: 3AvHxjFyjFPRJmhXHOTrUebuRxo=
+
+Name: assets/bundles/heros_ship_10001_ship_10001.unity3d
+SHA1-Digest: SjIAWnNZFSf9jlq9o1wr+cRcVew=
+
+Name: assets/bundles/uiprefabs_main_mainbuildingautoup.unity3d
+SHA1-Digest: YfuPYJ071xXayREUR5lTVcKMkb0=
+
+Name: assets/bundles/uiprefabs_military_generaladvancepanel.unity3d
+SHA1-Digest: K8QKSuGmoL91MEjA1NIs5/mO1Us=
+
+Name: assets/bundles/uiprefabs_social_socialsendgfitpanel.unity3d
+SHA1-Digest: 6HXzczLUaOyk53PQMKaipTHfM+4=
+
+Name: assets/bundles/uiprefabs_legion_legioncallwarviewsubview1.unity3
+ d
+SHA1-Digest: RDIuWjbxfEKNpGCYqfiNBrGyF2k=
+
+Name: assets/bundles/uiprefabs_social_socialsubview2.unity3d
+SHA1-Digest: e2cTubdlBnOL5x0SrIwmrQP8I4E=
+
+Name: assets/bundles/uiprefabs_legionreswar_legionreswarrankviewsubvie
+ w1.unity3d
+SHA1-Digest: rqkxk2UfCHvaKPm5dDMrZiZ9h8Q=
+
+Name: assets/bundles/uiprefabs_activity_activitytimelimitgiftpanel.uni
+ ty3d
+SHA1-Digest: eSZzGRt+JGdZptAR3kB/4LLhazw=
+
+Name: assets/bundles/maps_oceanplane_ziyuan.unity3d
+SHA1-Digest: dmxv8kO3pnXdjjyovRlJmmeN+to=
+
+Name: assets/bundles/maps_materials_gonghuizhan_water.unity3d
+SHA1-Digest: UAq0hNX+FIXaWRDWQSpHwWMZzMg=
+
+Name: assets/bundles/uiprefabs_fuben_fubenselectchallengepanel.unity3d
+SHA1-Digest: Q0gbrGVQvd1b2pnx2cD54dIzS9Y=
+
+Name: assets/bundles/scenes_base.unity3d
+SHA1-Digest: j1f7FL4jeAtLmTm8NlWcBtRVQjU=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: NPEA5dPGbvuomrcVNcej7ALoQGE=
+
+Name: assets/bundles/audios_sound_switch_port.unity3d
+SHA1-Digest: eshpn1ETGj4pJzsvDMTeV6srHso=
+
+Name: assets/bundles/uiprefabs_legion_legioninfosetjobpanel.unity3d
+SHA1-Digest: o/T5xebQ2XKWWnPmpBkACRKgOPw=
+
+Name: assets/bundles/uiprefabs_fuben_fubenfightingtipspanel.unity3d
+SHA1-Digest: pF0SCso7u4ZiKBuYBOFvqjVBmho=
+
+Name: assets/bundles/audios_a001_02.unity3d
+SHA1-Digest: LAtmy9YnMyLQkAPFeizaUYa4i2c=
+
+Name: assets/bundles/audios_u_032.unity3d
+SHA1-Digest: ttZKyJoaMLe6kjAiaJU4CkEZxMM=
+
+Name: assets/bundles/uiprefabs_rank_rankview.unity3d
+SHA1-Digest: RWmY8CYAZa0OQD/k8isKwoR+6U8=
+
+Name: assets/bundles/uiprefabs_army_armysubview2.unity3d
+SHA1-Digest: iku3k/eao0gSEMfqf/RNuxeSKKM=
+
+Name: assets/pb/mail.pb
+SHA1-Digest: ejrq+J6OMAaL8ErOoq1QscPmkVQ=
+
+Name: assets/bundles/heros_animations_ship_10013_siwang.unity3d
+SHA1-Digest: fjij38AdMKoW44XQuyF8RBlroeU=
+
+Name: assets/bundles/npcs_nianqingguifu_nianqingguifu.unity3d
+SHA1-Digest: eXWXpGgO2V6ho8MkDcKwhBNaMG4=
+
+Name: assets/bundles/audios_u_033.unity3d
+SHA1-Digest: +dIbByYommMy2KfrcVavyRIK9OI=
+
+Name: assets/bundles/uiprefabs_military_generalselectpanel.unity3d
+SHA1-Digest: aDKoD7nTUmulo78UlyErnucoRv0=
+
+Name: assets/bundles/audios_zonglie_hit.unity3d
+SHA1-Digest: lvgwzdOJbjn4fe/fVD9u6C7sxV4=
+
+Name: assets/bundles/uiprefabs_chat_chatgmcheckpanel.unity3d
+SHA1-Digest: 6MeWEhbGyC1tDen0siTjM6jTs2E=
+
+Name: assets/pb/legion.pb
+SHA1-Digest: CqSxJDV7OVbIxzyx7qFYS8O0FZw=
+
+Name: assets/bundles/uiprefabs_fight_fightdetailpanel.unity3d
+SHA1-Digest: Voklv9KwVkG1z15nJjFYy3GVgLo=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenserverfightsubv
+ iew1.unity3d
+SHA1-Digest: 4LwEevfvfjxp8cPSUA58XWlOEw8=
+
+Name: assets/bundles/uiprefabs_fuben_fubenshowsweeppanel.unity3d
+SHA1-Digest: ewltdgqLIaJHjMRplIKg5DmlJDE=
+
+Name: assets/bin/Data/54e4aab10c1089a4ab21402c02762ca9
+SHA1-Digest: MOeOIU7Nkm1ux/XwmNcLWdqJ5hg=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysreportpanel.unit
+ y3d
+SHA1-Digest: qH/hA2+XrgRUK6FhfhyAP6hCN2c=
+
+Name: assets/ucgamesdk/lib/ucsdk.apk
+SHA1-Digest: eQcDWXHrGTVneymBeNHSIG1WJM8=
+
+Name: assets/bundles/uiprefabs_army_armyusetrooppanel.unity3d
+SHA1-Digest: ygf8VnDj7rLHnjC5xh8kxGe4DG4=
+
+Name: assets/bundles/audios_u_008.unity3d
+SHA1-Digest: 7VZFy8dpQv8t6mKaWKkn9a02SsY=
+
+Name: assets/bundles/uiprefabs_military_generalupgradepanel.unity3d
+SHA1-Digest: 5+uYK5RCksb/e2Bg4Wlus/QRxl0=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerheadsubview1.unity3d
+SHA1-Digest: 2kEQdnhgDcGwGbUcAOhS7SMwn/M=
+
+Name: assets/pb/title.pb
+SHA1-Digest: sPyNjebBUEccXFqpaiZNT950Tig=
+
+Name: assets/bundles/uiprefabs_army_armybattlesetview.unity3d
+SHA1-Digest: uxSt4Igruz04nEA/+czIQFzBKk4=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysfightemailview.u
+ nity3d
+SHA1-Digest: ysyKMTjgEiZYePEDCbH02IzX4qs=
+
+Name: assets/pb/shop.pb
+SHA1-Digest: RGLphvkxy3jJeHVF9iC4KEjufK4=
+
+Name: assets/bundles/heros_ship_10004_ship_10004.unity3d
+SHA1-Digest: fBTinBR+CdPIVRGILTl0k0MRKBg=
+
+Name: assets/bundles/audios_u_029.unity3d
+SHA1-Digest: l1AG/oH2kQHLvxDgj/Rl0Y263o4=
+
+Name: assets/bundles/uiprefabs_activity_activitylegiondonaterankview.u
+ nity3d
+SHA1-Digest: 7ZMKrErn4c4+Rksxle5AEMZCc1I=
+
+Name: assets/ucgamesdk/modules/version.ini
+SHA1-Digest: H6j1K/sfsCp/QJ60tyke0T4MKa0=
+
+Name: assets/bundles/uiprefabs_common_commonlookplayerpanel.unity3d
+SHA1-Digest: HOaFz5n21oAnyp1kEoycSxsLn1E=
+
+Name: assets/bin/Data/56e89a85a68e41c4381f9fb4ead36af4
+SHA1-Digest: FYW/VornbnMXTzb8NuToNTIIb5k=
+
+Name: assets/bundles/maps_zhandou_03.unity3d
+SHA1-Digest: q/hUPVxCj8qwY24BamD3po6qT2w=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: gem+sKrf8+tSFx1SzkQnno64OH4=
+
+Name: assets/bundles/uiprefabs_broadcast_broadcastview.unity3d
+SHA1-Digest: wrAJ/YARyv+k2MEki55yjhq1XT0=
+
+Name: assets/bundles/scenes_login.unity3d
+SHA1-Digest: QNsHVYliytwN/p4GKBv+Jqjn390=
+
+Name: assets/bundles/uiprefabs_gain_gainview.unity3d
+SHA1-Digest: 8WkDzNn1bNFuKCUrm+qCUif8pkQ=
+
+Name: assets/bundles/uiprefabs_military_generalmutilresolvepanel.unity
+ 3d
+SHA1-Digest: TuOTEqfcL3KtvzDKXQXAFwgpFPM=
+
+Name: assets/bundles/ui_bg_guidefunctionopenview_bg.unity3d
+SHA1-Digest: XkUNrtfI9IhBU6N99mYdHRl46vQ=
+
+Name: assets/bundles/buildings_canvaspointslv3.unity3d
+SHA1-Digest: SwMZq7S5BQw6JH9C4utRt9WI028=
+
+Name: assets/bundles/uiprefabs_bag_baggiveitempanel.unity3d
+SHA1-Digest: yD+W7R2wSWDPjYOXEiLFri8lJOk=
+
+Name: assets/bundles/ui_businesssys_businesssys.unity3d
+SHA1-Digest: Xsbg/ql+Yie/bKqqxVTiRUEXo1Y=
+
+Name: assets/bundles/uiprefabs_army_armychoosepanel.unity3d
+SHA1-Digest: DvCoqHxiXaQn8yrT2PiOxsSg9BE=
+
+Name: assets/bundles/npcs_shenfu_shenfu.unity3d
+SHA1-Digest: Sm/uNdJlgIIWG1mL7lS0UxldZm4=
+
+Name: assets/bin/Data/mainData
+SHA1-Digest: GO5GYbNu8TtKH5QyuVwm3r10Ocg=
+
+Name: assets/pb/recharge.pb
+SHA1-Digest: S8c3Y6K8An2dYapTQFAhtw91P4M=
+
+Name: assets/bundles/uiprefabs_email_emaillookplayerpanel.unity3d
+SHA1-Digest: 7mIxTwY/ZnvYv9B1EEW0IgEgjfs=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerinfosubview4.unity3d
+SHA1-Digest: 4rzDHBQHx+MAv3OxGDW1KmJo5eY=
+
+Name: assets/bundles/uiprefabs_activity_activitylotteryview.unity3d
+SHA1-Digest: WPiOk0YIVAPIzYuNEZusJ+PwxJY=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA1-Digest: o1t87MmGehNMrOj2VPnN8P0p0XQ=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenchallengeinfopa
+ nel.unity3d
+SHA1-Digest: xWmdXtUXbhElB8ovbO5Copw2wic=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerinfosubview1.unity3d
+SHA1-Digest: 0clYn/SIjvCJIU3D9pGiUZnw8zQ=
+
+Name: assets/bundles/ui_bg_lottery_image_bg.unity3d
+SHA1-Digest: F3gCHoU1a5pLr91gcxdBD9nWvEk=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: 8HA4/Efa1qRo6K9HBW8/1fmUTgE=
+
+Name: assets/bundles/uiprefabs_main_mainobjnewtag.unity3d
+SHA1-Digest: cZdSSzOs6SWOoAMNPrnnGgaYpOo=
+
+Name: assets/bundles/audios_hengpai.unity3d
+SHA1-Digest: yQEclauqTR75ogJFb+rdU0JkVfw=
+
+Name: assets/bundles/uiprefabs_sciencemuseum_sciencemuseumscienceinfop
+ anel.unity3d
+SHA1-Digest: CrG0wHivaPhbFj9IGz4HPTLXnkI=
+
+Name: assets/bundles/uiprefabs_userguide_userguidefinishrewardview.uni
+ ty3d
+SHA1-Digest: mMe5lQHsSuwtqwSJWSgqJhkK7hY=
+
+Name: assets/bundles/audios_u_037.unity3d
+SHA1-Digest: O7dnRTBSgZOSPX0ysj3n886K4Ow=
+
+Name: assets/bundles/maps_zhandou_01.unity3d
+SHA1-Digest: QbfupwIXs1UrOxDSTQVzgKKnSso=
+
+Name: assets/bundles/fonts_vipfont_vipfont.unity3d
+SHA1-Digest: cxb85AUax5pkKysiCFuZoSPeJZM=
+
+Name: assets/bundles/ui_bg_activity_bg.unity3d
+SHA1-Digest: TUuPHa4KecLslgw6gM8ITbIsJ4U=
+
+Name: assets/bundles/uiprefabs_common_email_writeemailpanel.unity3d
+SHA1-Digest: /dQjjAUwjNo2Sn1nlHuy63WvDb8=
+
+Name: assets/pb/activity.pb
+SHA1-Digest: QfIVaVnsW/QGzO+5cUZnBLqOo4I=
+
+Name: assets/bundles/uiprefabs_email_emailsystemaccpanel.unity3d
+SHA1-Digest: Q0xvXSrnPLgt4BuKUy5fRyySwd0=
+
+Name: assets/bundles/uiprefabs_legion_legionhelpsubview2.unity3d
+SHA1-Digest: gba1k2JtxKxaDVnP2Zf/nuAkY9o=
+
+Name: assets/ucgamesdk/lib/x86_64/list
+SHA1-Digest: qa3jMhBq27zhdXBzF1e0FzDtZiY=
+
+Name: assets/bundles/uiprefabs_legion_legionenemydetailpanel.unity3d
+SHA1-Digest: YuvQve5owgjW/xYeMrN/dD3snNA=
+
+Name: assets/bundles/uiprefabs_redpacket_redpacketview.unity3d
+SHA1-Digest: NVQ6LHnKNlEzRAaFtxGQzqCLCdY=
+
+Name: assets/bundles/shaders_art_vertexcolor.unity3d
+SHA1-Digest: oi/DmE0vL5XZIC2K76LVkcBDCy4=
+
+Name: assets/bundles/audios_a001_05.unity3d
+SHA1-Digest: FGZXhrQOj28n2GLH9QXeeOG98jE=
+
+Name: assets/bundles/heros_animations_ship_10033_xingzou.unity3d
+SHA1-Digest: Z8EFq8wlQRolaSzdQQ3G2+6KinY=
+
+Name: assets/bundles/uiprefabs_fitting_fittingstrengthensubview3.unity
+ 3d
+SHA1-Digest: tCrXH5K1UwCDQ3BUOwLLofXMbbw=
+
+Name: assets/bundles/audios_u_002.unity3d
+SHA1-Digest: aMBxd40YKg3OWVhaXihuoMv0W8g=
+
+Name: assets/bundles/heros_ship_10026_ship_10026.unity3d
+SHA1-Digest: TTi7Q8QRaRdNUOKtmDNVhm8UzW0=
+
+Name: assets/bundles/heros_ship_10028_ship_10028.unity3d
+SHA1-Digest: nma8GbDa90vm1KoklMvTcRw1UWM=
+
+Name: assets/bundles/audios_sound_success_putup.unity3d
+SHA1-Digest: lnbvD7ITTgjuj0gISY9ptGodtvE=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.core.apk
+SHA1-Digest: kE/5htMijN2bafxRJxx2X4PSDyc=
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA1-Digest: 7sCFxVmRyuMAWkANrQ6zbwFZ+Ms=
+
+Name: assets/bundles/ui_common_common.unity3d
+SHA1-Digest: CNg08jTRVz4pNc3yOC5n6tbjqB0=
+
+Name: assets/bundles/heros_ship_10033_ship_10033.unity3d
+SHA1-Digest: FsGPu3Fo4WD90A5lbAUBTBsuSwA=
+
+Name: assets/bundles/uiprefabs_activity_activityinvestview.unity3d
+SHA1-Digest: 32ED/e8OUF2GgmKWvLdVS64KQyY=
+
+Name: assets/ucgamesdk/config/sdk_info.txt
+SHA1-Digest: LU8UXH7LJHzXyM4NIl4nQeFrBNk=
+
+Name: assets/ucgamesdk/lib/mips/lib_ucsdk_patch.so
+SHA1-Digest: iRp9zuuPzXTmmOLZN+kRwMDdTLk=
+
+Name: assets/bundles/heros_animations_ship_10016_gongji.unity3d
+SHA1-Digest: ENZC4CA+kLjwjB37mccn8cwlsjE=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA1-Digest: 0YEq4TF85XI/rB7gKdfniVeKtyg=
+
+Name: assets/bundles/heros_animations_ship_10004_shouji.unity3d
+SHA1-Digest: 4SfQy7VrRY7TLRS49YprbEMV8bA=
+
+Name: assets/bundles/heros_ship_10005_ship_10005.unity3d
+SHA1-Digest: o+XxTSWe99kXu6LoNCRcvmLMInA=
+
+Name: assets/bundles/sea_battle.unity3d
+SHA1-Digest: n1p7c9hyH53cWD0xFBt29CZSqMA=
+
+Name: assets/bundles/uiprefabs_activity_activityequipactview.unity3d
+SHA1-Digest: qUqXc5+cbCZlbNwwJc3iEYJM/wk=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenlianwinrewardpa
+ nel.unity3d
+SHA1-Digest: sLGq2nIl9hWfneURmKzCc3kTKd8=
+
+Name: assets/bundles/uiprefabs_army_armyshiprepurchasepanel.unity3d
+SHA1-Digest: bwoCOkuqt5/QCf24eIr+lDUPAN8=
+
+Name: assets/bundles/ui_equip_equip.unity3d
+SHA1-Digest: W4+a6/nXMOCET4W96Ww+en5Eyy4=
+
+Name: assets/bundles/maps_enemycamp.unity3d
+SHA1-Digest: 8ZKSjA3IWBBICDSfPwpgge3a+E4=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenfightrecordview
+ .unity3d
+SHA1-Digest: jwaGjcyIhPOzoqSIuwW0DEkqeRE=
+
+Name: assets/bundles/audios_zonglie_miss.unity3d
+SHA1-Digest: rQlYVp+kLI0Mm+Okzed7Ccmhyy0=
+
+Name: assets/bundles/audios_sound_battle_begins.unity3d
+SHA1-Digest: b7LcdSIS6mX+tu7xVCacTYHtEhU=
+
+Name: assets/bundles/uiprefabs_social_socialview.unity3d
+SHA1-Digest: Fppunk7D8CL6Xz+BcUMDPi+arp0=
+
+Name: assets/bundles/buildings_playersstrongholdlv7.unity3d
+SHA1-Digest: /o/aOAdVTLaeiVetvLmA5aPuul4=
+
+Name: assets/bundles/uiprefabs_seekequip_seekequipview.unity3d
+SHA1-Digest: wFFioETDWiRxJ3S7DBw1arcvALw=
+
+Name: assets/bundles/uiprefabs_activity_activityexploreviewsubview2.un
+ ity3d
+SHA1-Digest: 6BZBFC4NLF9I2x4pmlQhl2Y5X+A=
+
+Name: assets/bundles/uiprefabs_social_socialsearchfriendpanel.unity3d
+SHA1-Digest: sYL7dax3nW+SiqKpr+VrwAvroqg=
+
+Name: assets/bundles/maps_textures_world_foot.unity3d
+SHA1-Digest: DtJDSPgSnDs844aItClUsYi8YI0=
+
+Name: assets/bundles/audios_a001_09.unity3d
+SHA1-Digest: g60qw1WIH5wK5DyJ8kLP3qkCkRE=
+
+Name: assets/bundles/uiprefabs_fitting_fittingbagpanel.unity3d
+SHA1-Digest: tV6W90C4SRdwU7ziheEUdP66wlY=
+
+Name: assets/bundles/uiprefabs_quest_questsubview3.unity3d
+SHA1-Digest: 22+45UmRRUmK75gLYEgTJ3YRE28=
+
+Name: assets/bundles/uiprefabs_legion_legionlelfarepasslistpanel.unity
+ 3d
+SHA1-Digest: fGG1ljGLyNFBANPE5PKD40RC/+Q=
+
+Name: assets/bundles/uiprefabs_legion_legioninfosubview2.unity3d
+SHA1-Digest: MKjC46Xccq7vi2RrUm82HL9eDOU=
+
+Name: assets/bundles/uiprefabs_fuben_fubentwodmapcellrewardboxtips.uni
+ ty3d
+SHA1-Digest: B9D3Ul5ZEAHHXPnEqFOwHDTz+yo=
+
+Name: assets/bundles/shaders_art_lightmap_lightmap.unity3d
+SHA1-Digest: qhnquc1pxWtC5tVPBmW4K3eS5Ng=
+
+Name: assets/bundles/buildings_springfestival_cheap.unity3d
+SHA1-Digest: w1nuZFeQZbT51XUMuOXhrx+5q/k=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysview.unity3d
+SHA1-Digest: EDGYVUXHa6zmiZg5N7T7Cy27VN8=
+
+Name: assets/bundles/ui_login_login.unity3d
+SHA1-Digest: ZXHHLOPd3UoZcPsxHIrRDn03T+g=
+
+Name: assets/bundles/audios_quanti_hit.unity3d
+SHA1-Digest: o6MWHv/ZYlrM97CR4RccGyBvpDo=
+
+Name: assets/bundles/uiprefabs_activity_activityallpeopleredpacket.uni
+ ty3d
+SHA1-Digest: n3VIX2BEfwO+/Ol5N6LjE+Vktl4=
+
+Name: assets/bundles/uiprefabs_world_lookrespanel.unity3d
+SHA1-Digest: Nm/hpk0JYnfaIpDMsMyzRMFZnpA=
+
+Name: assets/bundles/uiprefabs_activity_activitynewregisternhourview.u
+ nity3d
+SHA1-Digest: 0yXJa/zkwV8k55cZJjpejbsN+Rc=
+
+Name: assets/bundles/uiprefabs_activity_activityeverydaylimitbuypanel.
+ unity3d
+SHA1-Digest: x65K44ylNqx2KSO0V1cF/s9N9lY=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerinfotopdatadetailspane
+ l.unity3d
+SHA1-Digest: wNOJMYYaBoo/VjJFy7FbbvVvgjo=
+
+Name: assets/bundles/uiprefabs_legion_legionlelfaresubview1.unity3d
+SHA1-Digest: 5coChbmG76eoHRgLqwyAiFbpfI0=
+
+Name: assets/bundles/uiprefabs_world_collectbuildingpanel.unity3d
+SHA1-Digest: xnZ9TfcrTlzmWI03OScc7PeIyuc=
+
+Name: assets/bundles/audios_sound_clearance.unity3d
+SHA1-Digest: Ysxvtxk0oq2e18ia3/wFux2On5k=
+
+Name: assets/bundles/heros_animations_ship_10035_daiji.unity3d
+SHA1-Digest: JeLALcZetr3zqas4ufZ5rNC8EtU=
+
+Name: assets/bundles/heros_ship_10036_ship_10036.unity3d
+SHA1-Digest: CBdCyac2MOWmKXMVriJa+GbXk4U=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.wdj.apk
+SHA1-Digest: I4UTo1jH63wiN7qK2FwNpo4p/+U=
+
+Name: assets/bundles/uiprefabs_fitting_fittingmutilresolvepanel.unity3
+ d
+SHA1-Digest: Q0BdShosWN52wDud++vAi1J/ncU=
+
+Name: assets/pb/attackCity.pb
+SHA1-Digest: wayfG8kEbivq/+sJ74MqITcLM/M=
+
+Name: assets/bundles/uiprefabs_military_generaldisplaypanel.unity3d
+SHA1-Digest: yZArWbgfi5vnNjuwgu5jHp1xK8M=
+
+Name: assets/bundles/uiprefabs_fight_fightwinpanel.unity3d
+SHA1-Digest: kewLwjhVUnpENjfY2FpKS/CyWEI=
+
+Name: assets/bundles/buildings_warstronghold.unity3d
+SHA1-Digest: 6my6NlmSkEWqMSNdF4lIaLOOkeo=
+
+Name: assets/bundles/uiprefabs_quest_questachievementsarepanel.unity3d
+SHA1-Digest: pTzUsxRkKJnGedB50VfvutzUi+Y=
+
+Name: assets/bundles/maps_materials_yanshi.unity3d
+SHA1-Digest: JoiBelgU2fXDfjmn1WYjq6V0O6I=
+
+Name: assets/bundles/uiprefabs_redpacket_redpacketsubview1.unity3d
+SHA1-Digest: xlKAUqN++g1+3LFgoSVxFi5Ar/c=
+
+Name: assets/bundles/uiprefabs_arena_arenareportview.unity3d
+SHA1-Digest: Whefmf5iBay4QEC7HPpKVdymQoo=
+
+Name: assets/bundles/uiprefabs_fuben_fubenview.unity3d
+SHA1-Digest: sZdZB/vyfsc7pY6zl/RgYCEk5cc=
+
+Name: assets/bundles/uiprefabs_military_generalresolverewardpanel.unit
+ y3d
+SHA1-Digest: 2JDgYzbtAbSHQBJr2rZLLG+MkmQ=
+
+Name: assets/bundles/uiprefabs_world_worldplayingmethodexplainpanel.un
+ ity3d
+SHA1-Digest: +NsLDAhBcGmWpiiHOp9QX4a9eKc=
+
+Name: assets/bundles/uiprefabs_legionreswar_legionreswarview.unity3d
+SHA1-Digest: K59xOZduZRAclVKRJC34uVTfsg0=
+
+Name: assets/bundles/uiprefabs_armyscience_armyscienceoperatesubview1.
+ unity3d
+SHA1-Digest: vGa1dVDkIfZOYOh5rXouGkxpYUI=
+
+Name: assets/bundles/uiprefabs_activity_activitysubresrankview.unity3d
+SHA1-Digest: xOXBm8iha8c/tvLeOwIE99Ii7Ew=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysrankrewardview.u
+ nity3d
+SHA1-Digest: LQs/IbZPJ4UfHDoB2aqjK/W+d3M=
+
+Name: assets/bundles/uiprefabs_shop_shopsubview.unity3d
+SHA1-Digest: +k9W62Ctf8bMwOfFveoiM7R95hU=
+
+Name: assets/pb/msg.pb
+SHA1-Digest: CzEYvx1cfuegutNZHzihSuIgJ9s=
+
+Name: assets/bundles/uiprefabs_armyscience_armyscienceunlockpanel.unit
+ y3d
+SHA1-Digest: MUY8poJbziUNBuny+gngdtUclx8=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenfengbeisubview2
+ .unity3d
+SHA1-Digest: oKtYDjp0JkP+YdJ9U4wwsrIDCaE=
+
+Name: assets/bundles/ui_bg_firstcharge_bg.unity3d
+SHA1-Digest: JCrQNrDAcgSGbbUnuNU9E5eJ0zI=
+
+Name: assets/pb/buff.pb
+SHA1-Digest: C2+2x66fpt0CWlcntOkO5dT22OA=
+
+Name: assets/bundles/heros_animations_ship_10032_gongji.unity3d
+SHA1-Digest: /fbKshIsD2Kr5aBdMimVBwLrPA0=
+
+Name: assets/bundles/ui_general2_general2.unity3d
+SHA1-Digest: gw0K8hfbeLQigU+9CVUvwuEslnE=
+
+Name: assets/bundles/audios_zonglie.unity3d
+SHA1-Digest: f+v5fpxKaiDpn6nsympuRyulxWQ=
+
+Name: assets/bundles/uiprefabs_common_email_emailselectatten.unity3d
+SHA1-Digest: 00w+LMWaYU9ZU1kVqJWaFrEZc54=
+
+Name: assets/ucgamesdk/lib/x86/lib_ucsdk_patch.so
+SHA1-Digest: ClZiswI2+5CWJgVZLsEurdFNVeQ=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysconversionshipvi
+ ew.unity3d
+SHA1-Digest: rE1WWVKuzMoeuZUBpMuU0vsSseU=
+
+Name: assets/ucgamesdk/lib/armeabi/lib_ucsdk_patch.so
+SHA1-Digest: k3zMLHnS1vpqt5cchDDZ9fgvdzg=
+
+Name: assets/ucgamesdk/lib/armeabi/lib_ucsdk_xcrypt.so
+SHA1-Digest: 6kcUKXGnuND0AApzlpic0B6cD7k=
+
+Name: resources.arsc
+SHA1-Digest: 0kX7nQVAyOlRPJReSDbbntolYVY=
+
+Name: assets/bundles/audios_u_007.unity3d
+SHA1-Digest: LHwZ6CLn46YBMkBtIaMrXPSW7wQ=
+
+Name: assets/bundles/uiprefabs_fuben_fubentwodmappanel.unity3d
+SHA1-Digest: osrgEghtQQ/gYbs/L5Pemtnge5E=
+
+Name: assets/bundles/uiprefabs_legion_legionlelfareactivedespanel.unit
+ y3d
+SHA1-Digest: R/UP4oKZj+q3dA0+MQBSSDjc5ns=
+
+Name: assets/bundles/heros_animations_ship_10028_xingzou.unity3d
+SHA1-Digest: /kmVAp0j98o7MffbpuvECyY0m2U=
+
+Name: assets/bundles/uiprefabs_bag_bagselectattenpanel.unity3d
+SHA1-Digest: 0alGILxL069jc9yZplPhGilPk/g=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.init.apk
+SHA1-Digest: NtQ3yrvnb795zMEZMV+cGBdR/ec=
+
+Name: assets/bundles/heros_animations_ship_10027_shouji.unity3d
+SHA1-Digest: 3PIen97gpc4AuuDESby7ZMiFlZk=
+
+Name: assets/pb/gm.pb
+SHA1-Digest: nSNSga+ROa4gasrLuTOn8YKjG+s=
+
+Name: assets/bundles/uiprefabs_login_accountpanel.unity3d
+SHA1-Digest: SMrjw3ODNq+N/YO+iIFR9hDeop0=
+
+Name: assets/pb/arena.pb
+SHA1-Digest: qHA3fkOPJ5yubRA/EKHjZRKTCDw=
+
+Name: assets/bundles/uiprefabs_activity_activitysevenloginview.unity3d
+SHA1-Digest: gkCXl9w/f++KtCL/j5uiOGkJWMc=
+
+Name: assets/bundles/ui_businesssys1_businesssys1.unity3d
+SHA1-Digest: N+R+3iMX1iPDDZ8QqSFKIzn9TOc=
+
+Name: assets/bundles/uiprefabs_activity_activityrechargeredview.unity3
+ d
+SHA1-Digest: V3BrFK8yIXQ+HIHXJWMgjSnerJw=
+
+Name: assets/bundles/uiprefabs_redpacket_redpacketgenpanel.unity3d
+SHA1-Digest: GzUbciR/8EsDX8QHIjCJiilw6e8=
+
+Name: assets/bundles/heros_ship_10013_ship_10013.unity3d
+SHA1-Digest: 7qHDO5ooT2MIEFMQvl8iPj8Glv8=
+
+Name: assets/bundles/uiprefabs_fight_fightuicanvas.unity3d
+SHA1-Digest: no+fFtoXivsRMzbGbwEghEumogY=
+
+Name: assets/bundles/heros_ship_10022_ship_10022.unity3d
+SHA1-Digest: aN+1Eon338ptwXk+7uBQOWd0DNs=
+
+Name: assets/bundles/uiprefabs_bag_bagchangenamepanel.unity3d
+SHA1-Digest: vwzlggIr1aN3ET3EnutfrPj4zUQ=
+
+Name: assets/bundles/heros_ship_10014_ship_10014.unity3d
+SHA1-Digest: bH2cxq6rg/FDb46jksS5HsIVtnY=
+
+Name: assets/bundles/uiprefabs_rank_ranksubview.unity3d
+SHA1-Digest: OU/iSKiivIIK6bZVFlg3zFpw99E=
+
+Name: assets/bundles/uiprefabs_seekcard_seekcardview.unity3d
+SHA1-Digest: IYOnywGd/jDoSvINL2zCfnOslbo=
+
+Name: assets/bundles/maps_materials_oceanplane.unity3d
+SHA1-Digest: /tN0ZX648klaGSWhJu4VHGnEYEY=
+
+Name: assets/bundles/audios_u_004.unity3d
+SHA1-Digest: 5XExAqFjpE9DSTVHLfjlb4Fgwd0=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssysentershiptipimg.
+ unity3d
+SHA1-Digest: bs96YdKW9wbOCADeabaBz3gGW9M=
+
+Name: assets/bundles/ui_main2_main2.unity3d
+SHA1-Digest: flrIqOrDZHPWH9c8O2349XLcTgY=
+
+Name: assets/bundles/uiprefabs_legion_legionlelfareview.unity3d
+SHA1-Digest: 7TIwYey3y0IgOMZRvVLmoD9AJ8o=
+
+Name: assets/bundles/audios_danti_miss.unity3d
+SHA1-Digest: XLlgPWGbf8tdJjw+xSWLQY7uebw=
+
+Name: assets/bundles/uiprefabs_fuben_fubenadventurelevelrankpanel.unit
+ y3d
+SHA1-Digest: yt6uq5AZiwTPT2YNdduQ58cL1PM=
+
+Name: assets/bundles/audios_u_030.unity3d
+SHA1-Digest: u7rqS0n+uPWrg1BYORYIkR/a8Ys=
+
+Name: assets/bundles/uiprefabs_fitting_fittingstrengthensubview1.unity
+ 3d
+SHA1-Digest: InMhvKQU6aGHUrV0E2f8Rt909QE=
+
+Name: assets/pb/warehouse.pb
+SHA1-Digest: fuKhufiUCWvMUsay55K4PLrFsMs=
+
+Name: assets/bundles/uiprefabs_arena_arenasubview1.unity3d
+SHA1-Digest: p3XTsrDbKb4WGLKHFhFqJCBRwM4=
+
+Name: assets/bundles/audios_u_031.unity3d
+SHA1-Digest: 5mb4akrctKJ3AJwkUf1UVY8MNDY=
+
+Name: assets/bundles/uiprefabs_common_commonbuildingdemand.unity3d
+SHA1-Digest: CLkJkLFGoeRkiMzrt2Zy/P11DGU=
+
+Name: assets/bundles/uiprefabs_main_mainshowpirateattackcityinfopanel.
+ unity3d
+SHA1-Digest: aiYdaAxWMuNQ2n3QUM//A1Q9UKA=
+
+Name: assets/bundles/uiprefabs_activity_activitymonthcardview.unity3d
+SHA1-Digest: SEXUb4E9dlGH3tRa8d8Ea+xd97w=
+
+Name: assets/bundles/audios_u_009.unity3d
+SHA1-Digest: do/fmDDjTFsrey9sJSfLexu178U=
+
+Name: assets/pb/goods.pb
+SHA1-Digest: hZ8F31h3ygKbpSZ/0gY10gf0Zqk=
+
+Name: assets/bundles/uiprefabs_makeworkshop_materielproducepanel.unity
+ 3d
+SHA1-Digest: cNREy2SDiCrtUKg33uAMjmy9KZM=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenhundredfighting
+ subview4.unity3d
+SHA1-Digest: vdL9UTB2X579DGwqH7Sos+tv/ow=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssystaskview.unity3d
+SHA1-Digest: pL8MWFKxkPy9SZU1SVzArJiW8is=
+
+Name: assets/bundles/audios_a001_08.unity3d
+SHA1-Digest: 1/dZldwnTZfztpRB1Xl+7fvaLCY=
+
+Name: assets/bundles/maps_textures_playersstrongholdlv1.unity3d
+SHA1-Digest: 3HcpQuLdO/WT637vXAk2l+n9a6I=
+
+Name: assets/bundles/audios_sound_click_on_2.unity3d
+SHA1-Digest: xLrvks9fp6H3RpKljBwAar3hTwQ=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenselectchallenge
+ panel.unity3d
+SHA1-Digest: oZAeN/OSHm6fPit2nUpsVp66UzU=
+
+Name: assets/bundles/audios_music_boss_01.unity3d
+SHA1-Digest: omFhyqQ1MMeRNcPPj3IPkWQjh68=
+
+Name: assets/bundles/audios_sound_rewards.unity3d
+SHA1-Digest: 5hegeiCfdRMWgd/RSuZmgQwscM8=
+
+Name: assets/bundles/uiprefabs_legion_legionheadgivepanel.unity3d
+SHA1-Digest: Sjs1vF26UBQ1Nu7r6gbF+W80oZc=
+
+Name: assets/bundles/audios_u_017.unity3d
+SHA1-Digest: PM2MikWQaTUEOoGCiEF/LO/lk4E=
+
+Name: assets/bundles/uiprefabs_social_socialsubview4.unity3d
+SHA1-Digest: FfkLuil6tt49M7JkzTRzDXF6nHc=
+
+Name: assets/bundles/buildings_playersstrongholdlv3.unity3d
+SHA1-Digest: L6bSPimhr9/hEzGINENklOxpUMA=
+
+Name: assets/bundles/maps_materials_water4advanced_ziyuan.unity3d
+SHA1-Digest: Lqfvm+nPlVf4RirQ/EYwhqfE6XU=
+
+Name: assets/bundles/uiprefabs_businesssys_businesssyspricelistview.un
+ ity3d
+SHA1-Digest: TD9lVgYebGekF1vtWbzhXY/a1xw=
+
+Name: assets/bundles/uiprefabs_bag_bagview.unity3d
+SHA1-Digest: //WwEKTLNghuGJYVedQgxDE3bAE=
+
+Name: assets/bundles/uiprefabs_playerinfo_playerinfosignaturepanel.uni
+ ty3d
+SHA1-Digest: A8h7oJLRH92+FPm48zS/HVRpjBc=
+
+Name: assets/bundles/uiprefabs_fuben_fubensubview1.unity3d
+SHA1-Digest: vC5KsvUoG75OYUmlWjHvffWXM+U=
+
+Name: assets/bundles/uiprefabs_activity_activitydaypurchaselimitview.u
+ nity3d
+SHA1-Digest: 74LUHxG1WLMc1Z0plG8XZkH8GR4=
+
+Name: assets/bundles/uiprefabs_activity_activityview.unity3d
+SHA1-Digest: SqalToRLkSGG0c3y00VMu6IUYCo=
+
+Name: assets/bundles/uiprefabs_legion_fuben_legionfubenhundredfighting
+ subview2.unity3d
+SHA1-Digest: /PmHZiWN6J7JNmn+HiKtrQ25Qu4=
+
+Name: assets/bin/Data/settings.xml
+SHA1-Digest: 3z3Un0A7S+CYgThkl8ET/nDNcCg=
+
+Name: assets/bundles/heros_ship_10017_ship_10017.unity3d
+SHA1-Digest: 7WR0FpXnCGV5ggvQ4UAVAYZ302M=
+
+Name: assets/bundles/uiprefabs_equip_equipprunepanel.unity3d
+SHA1-Digest: AAJbdmAlUJqGaEg5BCWgyFbg+NM=
+
+Name: assets/bundles/uiprefabs_world_findnearbypanel.unity3d
+SHA1-Digest: oVxiEasX6SdgmLmKuiOG4pf2rnE=
+
+Name: assets/bundles/uiprefabs_activity_activitypurewordview.unity3d
+SHA1-Digest: LVKd+RD8+PIzFnOUZLXxOrbA3pE=
+
+Name: assets/bundles/heros_animations_ship_10010_daiji.unity3d
+SHA1-Digest: QR5hg9TMltyV5MWMHm2yvQIPS7U=
+
+Name: assets/pb/vip.pb
+SHA1-Digest: qYlNhRLH+S9upAufc2nPY9/ue0Q=
+
+Name: assets/pb/airBubbles.pb
+SHA1-Digest: 54s6xD3C101FEomgcoJdVBzhgnU=
+
+Name: assets/bundles/audios_dub_1006.unity3d
+SHA1-Digest: 9f+5iSKKTj+do8nqWg/9xNmuwVU=
+
